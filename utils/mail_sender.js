@@ -1,4 +1,4 @@
-const {emailAdd, appPass, serverURL} = require('../config');
+const {emailAdd, appPass, baseURL} = require('../config');
 const nodemailer = require('nodemailer');
 
 const transporter = nodemailer.createTransport({
@@ -20,7 +20,7 @@ const registrationMailHTML = '' +
 '			Please click the following link to verify your email address:' +
 '		</p>' +
 '' +
-'		<a href="' + `${serverURL}/auth/validate?validationKey=insertValidationKey` + '" style="text-decoration: none; color: #1a1a1a; padding: 0.5rem 2rem; border-radius: 1rem; background-color: lightgreen;">Validate Now!</a>' +
+'		<a href="' + `${baseURL}/auth/validate?validationKey=insertValidationKey` + '" style="text-decoration: none; color: #1a1a1a; padding: 0.5rem 2rem; border-radius: 1rem; background-color: lightgreen;">Validate Now!</a>' +
 '' +
 '		<br>' +
 '		<br>' +
@@ -210,7 +210,7 @@ const forgotPasswordHTML = '' +
 `		<h2>Password Change Request</h2>                                        ` +
 `	</div>                                                                    	` +
 `                                                                               ` +
-`	<p>Here's the link to reset your password <a href="${serverURL}/auth/change-password?key=insertKey">reset-password</a>. </p>` +
+`	<p>Here's the link to reset your password <a href="${baseURL}/auth/change-password?key=insertKey">reset-password</a>. </p>` +
 "</div>";
 
 const passwordChangeHTML = '' +
