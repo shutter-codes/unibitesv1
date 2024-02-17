@@ -1,0 +1,4005 @@
+[
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.7494317,
+    "lng": 77.1125599
+    },
+    "markerPosition": {
+    "lat": 28.7494317,
+    "lng": 77.1125599
+    },
+    "address": "Shahbad Daulatpur Village, Rohini, Delhi, 110042, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "651feb8317fdcc547f65abd5",
+    "title": "ss pg boys pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 3500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "3,500₹ – 7,000₹\nper month\nPG Name: SS PG Boys PG Near DTU\nPG Location: 697, Boys PG, 09968261047, Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi, 110042\nPG Images: https://goo.gl/maps/Trwgj8CpeH34Q8tc8\nPG Rent:\nRs 3500 per person per month(Twin sharing)\nRs 4000 per person per month(Twin sharing)\nRs 4500 per person per month(Twin sharing)\nRs 5000 per person per month(Single room)\nRs 7000 per person per month(Single room)",
+    "state": "delhi",
+    "phone": "9968261047",
+    "zipCode": "110042",
+    "whatsappNumber": "9968261047",
+    "address": "697, Boys PG, 09968261047, Delhi Technological University, Shahbad Daulatpur Village, Rohini, Delhi, 110042, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590697/ewyhvdqfep34hhbgvipc.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590697/wuoiupmiuhmdssj2szxr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590698/xfqqq2mo4g5kczc4fdpi.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T11:12:03.479Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6785828,
+    "lng": 77.19158399999999
+    },
+    "markerPosition": {
+    "lat": 28.6785828,
+    "lng": 77.19158399999999
+    },
+    "address": "New Delhi, Delhi, 110007, India",
+    "city": "Delhi Division",
+    "area": "New Delhi",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "651fed0717fdcc547f65abe9",
+    "title": "krishna boys pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 4500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "4,500₹ – 5,500₹\nper month\nBoys Pg\n\nfully furnished",
+    "state": "delhi",
+    "phone": "919899412848",
+    "zipCode": "110007",
+    "whatsappNumber": "919899412850",
+    "address": "287, shree guru tegh bahadur marg , Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590904/losjwm9ameocrlgwfmkj.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590904/hlarmyqgcsf6pcmtw86b.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590904/od9nwrzpiewh46487syl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590904/hwq7aqnz9bcvjl34k3l4.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590906/xhmeseltlhn1n61ow76c.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696590904/wezslkqaku8qdm2ir8xj.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Mktz00qZ4anoha"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T11:18:31.530Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6785828,
+    "lng": 77.19158399999999
+    },
+    "markerPosition": {
+    "lat": 28.6785828,
+    "lng": 77.19158399999999
+    },
+    "address": "New Delhi, Delhi, 110007, India",
+    "city": "Delhi Division",
+    "area": "New Delhi",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "651fee4417fdcc547f65ac05",
+    "title": "krishna girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 4500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "4,500₹ – 5,500₹\nper month\nGirls Pg\n\nfully furnished",
+    "state": "delhi",
+    "phone": "919899412850",
+    "zipCode": "110007",
+    "whatsappNumber": "919899412850",
+    "address": "287, shree guru tegh bahadur marg , Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591383/jl9uycklx1cckwhkrq4r.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591383/bezdfaif7uxly7u4k5ed.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591383/r5uqoaerbgo1vlcrgcjg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591384/t65tpkbuta0gxyagihgi.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591385/rbgwndhet5lh2dnfwcvp.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Mku4ZZoAi9ChrA"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T11:23:48.403Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1088525,
+    "lng": 73.0032605
+    },
+    "markerPosition": {
+    "lat": 19.1088525,
+    "lng": 73.0032605
+    },
+    "address": "Sector 2, Kopar Khairane, Navi Mumbai, Maharashtra 400709, India",
+    "city": "Konkan Division",
+    "area": "Kopar Khairane",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "651fefc017fdcc547f65ac29",
+    "title": "ansh pg 2",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "5,000₹ – 6,500₹\nper month\n*Ansh Paying Guest available for boys & girls/in Navi Mumbai with best services and facilities.*\n*Location = *Ghansoli & KOPARKHAIRANE*\n******** *NO BROKERAGE ****** *IMMEDIATELY AVAILABLE *****\n– *5minutes away from Ghansoli and also Koparkhaiarane railway station*.*-3 minutes from Teen Tanki*- *10 minutes away from Millenium Business Park, Mahape*- *5 mins from balaji movie theatre (walking distance)*- *10 mins from Dmart (walking)*- *1 min walk to market (including groceries, medical store, hair salon, cyber cafe, food cafe)*- *5 minutes away from Gym*\n*Rooms are available with Balcony road side.**24 hr Water and Electricity without any interruption.*\n*The rent includes-**-Bed + Mattress + Pillow**- Mobile / Laptop Charging* *point near everyone’s Bed**- Cupboard*- *AC**- Fridge*- *Geyser*- *Washing Machine*- *High speed Wi-Fi*- *Gas stove and Cylinder*- *Maid is available for cleaning*\n*Not Included in Rent :*- *Electricity to be divided Equally by Flatmates*\n*Rent starts from Rs 5000 – Rs 6500 (Depending upon PG)*\n*INTERESTED ONE CAN call and massage.*\n*Mobile – 9570915147*",
+    "state": "mumbai",
+    "phone": "9570915147",
+    "zipCode": "400709",
+    "whatsappNumber": "9570915147",
+    "address": "Sector 2, Kopar Khairane, Navi Mumbai, Maharashtra 400709, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591744/corngrzomrwmp1oixqbn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591744/zrckmplxhcevlhci8lyp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591744/mlxsyawp9xje15geww9y.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591745/nqcndzhsvvkh8fogt71q.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591746/ykcpmtm3cldwvmv4p4ww.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591746/wnlqitysncinmlohyscq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591747/dspjsbm65krpo9aaueql.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696591748/cjrvkkqdmtjdc2lne2gd.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MkuBG80ugfOQnX"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T11:30:08.072Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652041a717fdcc547f65ac6f",
+    "title": "1 bhk",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 10000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "10,000₹ – 17,000₹\nFurnished and unfurnished both",
+    "state": "jaipur",
+    "phone": "9001305849",
+    "zipCode": "302017",
+    "whatsappNumber": "9001305846",
+    "address": "Malviya nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696612710/f7ume81qzhfe6wlsdc4i.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696612714/sfjgnfiwuyffc7ituebz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696612714/qvbtazodtsogvjkq3xin.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696612715/yt4vl5bfj7icps6iba4m.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520400617fdcc547f65ac5f",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T17:19:35.581Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "markerPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "address": "Pratap Nagar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652044a717fdcc547f65ac80",
+    "title": "1 bhk",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 5000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "1Bhk flat\nAppt Size : 10/10",
+    "state": "jaipur",
+    "phone": "9358874948",
+    "zipCode": "302033",
+    "whatsappNumber": "9358874947",
+    "address": " Kumbha marg partap nagar",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696613505/f90gfdbud9d9c2ch5vqp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696613505/nj8ougmxrohs8cqi4a7r.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696613505/epdktchiecgwnjz5qge8.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696613505/wglxdmfwg1ahbelzmbu4.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696613506/rxmgogdgiee4y5gvone5.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fdff617fdcc547f65aac5",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T17:32:23.481Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "markerPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "address": "Mansarovar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Mansarovar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6520469217fdcc547f65ac95",
+    "title": "2bhk flat",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 14000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "furnished \nattached lat-bath",
+    "state": "jaipur",
+    "phone": "8003305932",
+    "zipCode": "302020",
+    "whatsappNumber": "8003305931",
+    "address": "Mansrowar, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696614020/i4iuanxbfr3q3iyaeyf5.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "652045f217fdcc547f65ac88",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T17:40:34.688Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652047e917fdcc547f65acb0",
+    "title": "2bhk flat",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 15000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "15,000₹ – 22,000₹\nFurnished-Unfurnished\nBoth",
+    "state": "jaipur",
+    "phone": "9001305849",
+    "zipCode": "302017",
+    "whatsappNumber": "9001305847",
+    "address": "Malviya nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696614313/l2wkorrlul5hdihzvizv.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696614315/lfovmcw8ryybgik80k2x.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696614315/emr7vyvnsqfvn90gynyn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696614316/h4fdvabdkhy8fpfs53uo.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520400617fdcc547f65ac5f",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml0aZgMS1J5zp4"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T17:46:17.572Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65204b3517fdcc547f65acd4",
+    "title": "3bhk",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 22000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "22,000₹ – 45,000₹\nFurnished and unfurnished both",
+    "state": "jaipur",
+    "phone": "9001305849",
+    "zipCode": "302017",
+    "whatsappNumber": "9001305849",
+    "address": "Malviya nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615150/rgktroknnnoacv5duqly.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615151/xs4xzrtc69ht6jdr80cz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615152/cplnlxrmum8vv45yjxok.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615152/vkmdglgrssvu0wsek6pa.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615154/i5w4ld54b0mbo1mvpwxa.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615155/xor9at1nambjkbkupwqo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615156/uyx1rfcpmviir9e0wnjq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615160/vlafxtybgpl0yekedpih.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615161/tuxsucx3pmkczmd10cpd.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520400617fdcc547f65ac5f",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml0pSGp7qTrecJ"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:00:21.897Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "markerPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "address": "Mansarovar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Mansarovar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65204cce17fdcc547f65acef",
+    "title": "4bhk",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 25000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "fukky furnished\nattached lat-bath",
+    "state": "jaipur",
+    "phone": "8003305932",
+    "zipCode": "302020",
+    "whatsappNumber": "8003305932",
+    "address": "Mansrover, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615485/yyrykbvv6umav4jcocbd.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615488/n9uzevcnemjm8altt6md.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615491/qln8digqtnom4xrmns7z.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615491/thfyfcfqaze3flujca5x.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "652045f217fdcc547f65ac88",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml0wg529JGDRXs"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:07:10.904Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.650218,
+    "lng": 77.30270589999999
+    },
+    "markerPosition": {
+    "lat": 28.650218,
+    "lng": 77.30270589999999
+    },
+    "address": "Anand Vihar, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Anand Vihar",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "65204e2d17fdcc547f65ad05",
+    "title": "aadi pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 10000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,500₹ – 26,000₹\nper month\nFacilities includes :\n– breakfast/ lunch/ dinner\n– Ac, gyeser, room heater\n– box bed, study table, almerah\n– room and bathroom cleaning\n– RO, hot and cold dispenser, refrigerator, automatic washing machine , long Mirror and TV is in common areA\n– 24 hour Gaurd and CCTV survilliance\n– personal bathroom\n– care taker\n       \n Single room ac – 26000\nSingle room cooler – 19000\nDouble sharing ac – 15000\nDouble sharing cooler -11500\nTriple sharing ac – 13500\nTriple sharing cooler – 10500\nFour sharing cooler -9500\nFive sharing cooler – 8500\n",
+    "state": "delhi",
+    "phone": "09650248000",
+    "zipCode": "110092",
+    "whatsappNumber": "09650248000",
+    "address": "23, Priya Enclave, Karkardooma, Anand Vihar, Delhi, 110092, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615945/kwbwhsz1c0h1vlxavuze.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615947/fdzjqf7sgbajf6arpwgl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615948/ufnrbxayoswmoky0aw8y.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615949/dcbglvilipedylmiazct.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696615950/yp5zyw2eekzjwv7afjxh.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1d917fdcc547f65ab00",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:13:01.715Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6401136,
+    "lng": 77.28792419999999
+    },
+    "markerPosition": {
+    "lat": 28.6401136,
+    "lng": 77.28792419999999
+    },
+    "address": "Swasthya Vihar, Delhi, 110092, India",
+    "city": "Delhi Division",
+    "area": "Swasthya Vihar",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "65204f0917fdcc547f65ad26",
+    "title": "aadi pg2",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,500₹ – 26,000₹\nper month\nFacilities includes :\n– breakfast/ lunch/ dinner\n– Ac, gyeser, room heater\n– box bed, study table, almerah\n– room and bathroom cleaning\n– RO, hot and cold dispenser, refrigerator, automatic washing machine , long Mirror and TV is in common areA\n– 24 hour Gaurd and CCTV survilliance\n– personal bathroom\n– care taker\nSingle room ac – 26000\nSingle room cooler – 19000\nDouble sharing ac – 15000\nDouble sharing cooler -11500\nTriple sharing ac – 13500\nTriple sharing cooler – 10500\nFour sharing cooler -9500\nFive sharing cooler – 8500",
+    "state": "delhi",
+    "phone": "09650248000",
+    "zipCode": "110092",
+    "whatsappNumber": "9650247999",
+    "address": "150, new rajdhani enclave, swasthya vihar , Delhi , Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616160/s5pk9hnzb7dmbbuwznms.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616161/ehqhrqwaajkyjdbq8riv.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616161/bmuwobu1j5s7iqdhoibr.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1d917fdcc547f65ab00",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml16itp9xjKGC9"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:16:41.760Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6401136,
+    "lng": 77.28792419999999
+    },
+    "markerPosition": {
+    "lat": 28.6401136,
+    "lng": 77.28792419999999
+    },
+    "address": "Swasthya Vihar, Delhi, 110092, India",
+    "city": "Delhi Division",
+    "area": "Swasthya Vihar",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "65204fcb17fdcc547f65ad4b",
+    "title": "aadi pg3",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,500₹ – 26,000₹\nper month\nFacilities includes :\n– breakfast/ lunch/ dinner\n– Ac, gyeser, room heater\n– box bed, study table, almerah\n– room and bathroom cleaning\n– RO, hot and cold dispenser, refrigerator, automatic washing machine , long Mirror and TV is in common areA\n– 24 hour Gaurd and CCTV survilliance\n– personal bathroom\n– care taker\n\nSingle room ac – 26000\nSingle room cooler – 19000\nDouble sharing ac – 15000\nDouble sharing cooler -11500\nTriple sharing ac – 13500\nTriple sharing cooler – 10500\nFour sharing cooler -9500\nFive sharing cooler – 8500",
+    "state": "delhi",
+    "phone": "09650248000",
+    "zipCode": "110092",
+    "whatsappNumber": "09650248000",
+    "address": " 12, defence enclave , swasthya Vihar , Delhi , Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616345/mxijnu2chalxgvy8sir6.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616346/efccmb61fy5ipdwuohul.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616347/lhaqiyyqfuftr1jdmdem.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616349/i3lwlhvqg2ic8x4x6thc.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1d917fdcc547f65ab00",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1A8Tv9uwmAwv"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:19:55.923Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.70198469999999,
+    "lng": 77.0788689
+    },
+    "markerPosition": {
+    "lat": 28.70198469999999,
+    "lng": 77.0788689
+    },
+    "address": "New Delhi, Delhi, 110086, India",
+    "city": "Delhi Division",
+    "area": "New Delhi",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "6520501517fdcc547f65ad5c",
+    "title": "gola residency",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6200,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully furnished",
+    "state": "delhi",
+    "phone": "9911320011",
+    "zipCode": "110086",
+    "whatsappNumber": "9911320009",
+    "address": "40, Begumpur Gaon Rd, Begampur Extension, Sector 38, Rohini, Delhi, 110086, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616326/wiegjzvnanqhzmnr4k4u.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616327/bmf88pkgg2gyniammtvu.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe17717fdcc547f65aaf1",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:21:09.522Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.0338457,
+    "lng": 73.0195871
+    },
+    "markerPosition": {
+    "lat": 19.0338457,
+    "lng": 73.0195871
+    },
+    "address": "Nerul, Navi Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Nerul",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "652050f417fdcc547f65ad8e",
+    "title": "gharapna101",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 7000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "7,000₹ – 9,000₹\nper month\nPremium very neat and clean paying guest for students as well working professional male, female, family and couple type guest house available in different building\n\nAC NON AC both available\nIn furniture\nFridge\nWashing machine\nBed\nMatress\nCupboard\nWater purifier\nHigh speed wifi\nKitchen aminities many more Available\nHouse keeping\n\nJust need to shift with your bag\n\nAC – Private Room with attached washroom-18000(Per Month) 1200- ( Perday)\n\nDouble Sharing -9000(Monthly) 600(per day)\n\n3 Sharing- 7000(Monthly) – 400( per day)\n\nNON AC- Private Room -13000(Monthly) & 600- Perday\n\nDouble sharing -7000(Monthly) 300- Perday\n\nTriple sharing – 5500(monthly) 250- Perday Electricity bill additional as per meter reading.\n*2000 rs taken as joining fee(For joining charge, documentation,rent agreement,police noc)\nelectricity bill additional based on actual meter reading separate meter available\nSecurity deposit – 1.5 month rent for Non AC & 2 Month for Ac",
+    "state": "mumbai",
+    "phone": "9136666813",
+    "zipCode": "400706",
+    "whatsappNumber": "9136666813",
+    "address": "SIIS college , near d4, f2, near dayapati college , Nerul, maharastra , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616633/ffn0fmbi7wocx57n6yds.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616633/rtnk3emrjxgqvxrnofs8.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616635/vn4rl58htsfaxvgu4tz6.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1FMOyeRpjMeS"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:24:52.143Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8633711,
+    "lng": 75.7776439
+    },
+    "markerPosition": {
+    "lat": 26.8633711,
+    "lng": 75.7776439
+    },
+    "address": "Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Arjun Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6520510217fdcc547f65ad9f",
+    "title": "aashirwad boy’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 10000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Boys PG\n\nElectricity and Food included\n\nA.C/ non A.C rooms\n\nWiFi\n\nCamera security\n\nAttached lat Bath\n\nLift available",
+    "state": "jaipur",
+    "phone": "8058535152",
+    "zipCode": "302020",
+    "whatsappNumber": "8058535152",
+    "address": "20-A, Focus Tower, Vishweshariya Nagar, Triveni Chouraha, Jaipur , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616624/ktakbwnpteqmbksxjwqu.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616623/gi4o5q24oynki6phudxi.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616624/fgd49vhk7im7ktwvyquo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616624/wp1euutiop9qqc9t3f47.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696616624/yw4avw6olvemib6rmkxg.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe8e517fdcc547f65abb3",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:25:06.899Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8176736,
+    "lng": 75.86171709999999
+    },
+    "markerPosition": {
+    "lat": 26.8176736,
+    "lng": 75.86171709999999
+    },
+    "address": "Jagatpura, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6520525317fdcc547f65addc",
+    "title": "aastha girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "6,000₹ – 8,000₹ per month\nIncluding food\n\nFull furnished\n\nCleaning\n\nCamera security\n\nWarden availabl\n\nSingle/double/tripple sater room",
+    "state": "jaipur",
+    "phone": "9462772788",
+    "zipCode": "302017",
+    "whatsappNumber": "9462772788",
+    "address": "41,Aastha pg, Mahesh colony Near power house, main market, Jagatpura, Jaipur, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617032/purltbqmvfiyfci1nm8b.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617033/ahjmew9xs8e71mncjkzu.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe0a317fdcc547f65aad6",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:30:43.499Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.7408388,
+    "lng": 77.1125599
+    },
+    "markerPosition": {
+    "lat": 28.7408388,
+    "lng": 77.1125599
+    },
+    "address": "Sector 17, Rohini, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "6520529f17fdcc547f65ade7",
+    "title": "govindam niwas boy’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 7000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully Furnished",
+    "state": "delhi",
+    "phone": "9899971235",
+    "zipCode": "110085",
+    "whatsappNumber": "9899971235",
+    "address": "Plot No 12 Shabad Extension Gali No 1 Rohini Sect 17 Delhi 110085 Next to Shrine Hospital Opp Amarjoyti Colony, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617030/ablz7vhn6twoyl3ce3aw.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617030/lf4flminmcuckzrwufrg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617030/zezxjkzu1clk2sj1gn2x.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617030/odxgggkipf3mh3igj02n.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617030/usrlgjxyblybotcd95rz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617030/apbu9k19ghpj0bfatrzz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617032/tgniwkodhctgzdetatls.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617032/edz4bi4dffe2rqechlyd.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617033/q6vpjgcapgdesognzlx2.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe0fc17fdcc547f65aae5",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:31:59.831Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8517972,
+    "lng": 75.7862232
+    },
+    "markerPosition": {
+    "lat": 26.8517972,
+    "lng": 75.7862232
+    },
+    "address": "Durgapura, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Durgapura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652052ca17fdcc547f65adf2",
+    "title": "lamba boys pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "boys pg\n\nNon ac\n\nFood included",
+    "state": "jaipur",
+    "phone": "8302161017",
+    "zipCode": "302018",
+    "whatsappNumber": "8302161017",
+    "address": "B34, jadhon nagar, durgapura, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617144/owzo0mlpodzvir9ypch7.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "65204fd717fdcc547f65ad52",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:32:42.791Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8813418,
+    "lng": 75.78149940000002
+    },
+    "markerPosition": {
+    "lat": 26.8813418,
+    "lng": 75.78149940000002
+    },
+    "address": "Gopal Pura Mode, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Gopal Pura Mode",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652053ef17fdcc547f65ae37",
+    "title": "meridian boy’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6998,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Electricity & Food included\n\nSingle/two seater rooms available\n\nFrew WiFi\n\nAttached lat Bath",
+    "state": "jaipur",
+    "phone": "6350431324",
+    "zipCode": "303006",
+    "whatsappNumber": "6350431322",
+    "address": "P.No. SP-1, triveni nagar crossing, Triveni Nagar, Gopalpura bypass, Jaipur , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617427/xye92ps22phzcfwyys1f.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617427/qahnat06bvygtjcibtng.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617427/jd7srqrdvelwjpqp8m8a.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe8c017fdcc547f65abb0",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:37:35.597Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8517972,
+    "lng": 75.7862232
+    },
+    "markerPosition": {
+    "lat": 26.8517972,
+    "lng": 75.7862232
+    },
+    "address": "Durgapura, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Durgapura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6520545517fdcc547f65ae41",
+    "title": "lamba ji girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 7500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Girls pg\n\nFood included",
+    "state": "jaipur",
+    "phone": "8302161017",
+    "zipCode": "302018",
+    "whatsappNumber": "8302161017",
+    "address": "718, mahaveer nagar -1 , gopalpora bypass, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617335/hvlyxywwiij9lrp9niso.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "65204fd717fdcc547f65ad52",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1UbGt3KdLcVk"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:39:17.692Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6997737,
+    "lng": 77.1154589
+    },
+    "markerPosition": {
+    "lat": 28.6997737,
+    "lng": 77.1154589
+    },
+    "address": "Sector 3, Rohini, Delhi, 110085, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "652054c817fdcc547f65ae57",
+    "title": "anant boys pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "4,500₹ – 80,00₹\nper month\n*Anant Boys Pg*\nLocation-A109 gram sabha begumpur,opp. Maharaja agarsen college, Rohini sector 22,delhi-110086\n•Single room7500/-Double Sharing 4500/-\n•11500 rs Single With Food\n8500 rs sharing With Food\n3 Time Food.\n•Near sector 22\nAC,geyser,battery backup,attached bathroom,attached balcony,washing machine,wifi and 3time meal ₹4000 per month.\n•Plus 1 month security.\n*•𝗦𝗣𝗘𝗖𝗜𝗔𝗟 𝗢𝗙𝗙𝗘𝗥 𝗼𝗻𝗹𝘆 𝘃𝗮𝗹𝗶𝗱 𝘁𝗶𝗹𝗹 𝗦𝗘𝗣𝗧𝗘𝗠𝗕𝗘𝗥\n𝙎𝙃𝘼𝙍𝙄𝙉𝙂 𝘿𝙊𝙐𝘽𝙇𝙀 𝙎𝙃𝘼𝙍𝙄𝙉𝙂 𝗽𝗿𝗶𝗰𝗲 ̶4̶5̶0̶0/- 𝟰𝟬𝟬𝟬/-*",
+    "state": "delhi",
+    "phone": "9911404559",
+    "zipCode": "11085",
+    "whatsappNumber": "9911404559",
+    "address": "Rohini sector 3 , Delhi , Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617634/m6qrhitwahvodndpoteo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617634/eiw9lub9g5b7bpikk3gh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617634/qg9fmzzyg2nxpmjbk6nj.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617634/nzatbnisnnjcbxls1ytj.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617634/odzngatdol7ymkdkeuqc.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617634/aoq67cjxh8ce70bmpmd6.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617636/q3plmhvzybplpesqzmjz.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe39717fdcc547f65ab30",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:41:12.628Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1575251,
+    "lng": 72.99691969999999
+    },
+    "markerPosition": {
+    "lat": 19.1575251,
+    "lng": 72.99691969999999
+    },
+    "address": "Sector 3, Airoli, Navi Mumbai, Maharashtra 400708, India",
+    "city": "Konkan Division",
+    "area": "Airoli",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520550917fdcc547f65ae68",
+    "title": "hinglajmata paying guest house",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "6,000₹ – 6,500₹\nper month\nPrime Location\n\nAmenities\n\nWashing machine\nfridge\nWater filter\nwifi\nbed locker\nGas\nHot water\nelecticty bill\nhouse keeping\nNo extra charges\n\n9702913456",
+    "state": "mumbai",
+    "phone": "9702913455",
+    "zipCode": "400099",
+    "whatsappNumber": "9702913456",
+    "address": "G 128 sec 3 near Munsipal office airoli Navi Mumbai, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617631/kf1k2xutoav9e6g51ibq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617632/mmpgwnvrtwtk6nfcgzxa.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617632/ydk2xzd096v8o9auovhz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617632/bix01pzlvhwufzhsavd2.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1d017fdcc547f65aafd",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:42:17.937Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.0997617,
+    "lng": 73.0021534
+    },
+    "markerPosition": {
+    "lat": 19.0997617,
+    "lng": 73.0021534
+    },
+    "address": "Navi Mumbai, Maharashtra 400709, India",
+    "city": "Konkan Division",
+    "area": "Navi Mumbai",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520555217fdcc547f65ae72",
+    "title": "ansh pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "5,000₹ – 6,500₹\nper month\n*Ansh Paying Guest available for boys & girls/in Navi Mumbai with best services and facilities.*\n*Location = *Ghansoli & KOPARKHAIRANE*\n******** *NO BROKERAGE ****** *IMMEDIATELY AVAILABLE *****\n– *5minutes away from Ghansoli and also Koparkhaiarane railway station*.*-3 minutes from Teen Tanki*- *10 minutes away from Millenium Business Park, Mahape*- *5 mins from balaji movie theatre (walking distance)*- *10 mins from Dmart (walking)*- *1 min walk to market (including groceries, medical store, hair salon, cyber cafe, food cafe)*- *5 minutes away from Gym*\n*Rooms are available with Balcony road side.**24 hr Water and Electricity without any interruption.*\n*The rent includes-**-Bed + Mattress + Pillow**- Mobile / Laptop Charging* *point near everyone’s Bed**- Cupboard*- *AC**- Fridge*- *Geyser*- *Washing Machine*- *High speed Wi-Fi*- *Gas stove and Cylinder*- *Maid is available for cleaning*\n*Not Included in Rent :*- *Electricity to be divided Equally by Flatmates*\n*Rent starts from Rs 5000 – Rs 6500 (Depending upon PG)*",
+    "state": "jaipur",
+    "phone": "9570915147",
+    "zipCode": "400706",
+    "whatsappNumber": "9570915147",
+    "address": "Sector 2, Kopar Khairane, Navi Mumbai, Maharashtra 400709, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617664/b2x6gazw43kb183fvweb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617665/xs8lch4palwlrvv2usga.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617665/bkccni5jizeogfd9ojja.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617665/zegwhrsm6deaqpzwytjl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617666/mvz7u87mhh69jxxxzhqe.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617669/viiifxnxs7olijmupnqr.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1Z3ZBwAbmdWR"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:43:30.609Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "markerPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "address": "Pratap Nagar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6520556917fdcc547f65ae83",
+    "title": "madhav 2 boys pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Ducting\n\nFood included\n\nBig rooms",
+    "state": "jaipur",
+    "phone": "9166472121",
+    "zipCode": "302033",
+    "whatsappNumber": "9166472119",
+    "address": "51/315 sector 5 Partap nagar, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617733/svo1baji0e6z5xjwo4pa.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617733/cni3zbm3qciblizirc1y.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "65204fb017fdcc547f65ad45",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:43:53.228Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1648109,
+    "lng": 72.85327149999999
+    },
+    "markerPosition": {
+    "lat": 19.1648109,
+    "lng": 72.85327149999999
+    },
+    "address": "Mumbai, Maharashtra 400063, India",
+    "city": "Konkan Division",
+    "area": "Mumbai",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "652055ec17fdcc547f65ae98",
+    "title": "nandan space realty",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 40000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Facing-East\n\nSEMI FURNISHED\n\nBed\n\nWardrobe\n\n12 Air condition\n\n2 Geyser\n\nFan & lights\n\npipeline Gas\n\nDAMENITIES\n\n24×7 hour’s security\n\nCCTV camara\n\n24×7 hour’s Electricity\n\n24×7 hour’s BMC waters supply\n\n->>CONNECTIVITY\n\n5 mints walkable westurn express\n\nHighway\n\n2 km railway station\n\n5-7 mints walkable metro station\n\n5 mints walkable Oberoi mall 5 mints Drive walkable nesco It park\n\n5 mints Drive walkable Nirlon\n\nknowledge park\n\n10 mints Drive lotus corporate park",
+    "state": "mumbai",
+    "phone": "9892658031",
+    "zipCode": "400063",
+    "whatsappNumber": "9892658031",
+    "address": "Babacomplex, Goregaon(East), Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617925/zqfvsci9iipvhzyfarkf.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617926/sueovzaohmcl15irnkwy.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617926/ijz6xvr0vtlsnycfs8p0.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617926/okfr5qifqliofkma8i6s.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617926/f4hs0naupouwfcpfc8lk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617926/zw3jdjeohzsyisaosd5j.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe34f17fdcc547f65ab2a",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:46:04.766Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.0345331,
+    "lng": 73.02318629999999
+    },
+    "markerPosition": {
+    "lat": 19.0345331,
+    "lng": 73.02318629999999
+    },
+    "address": "Nandanvan Society, Sector 17, Nerul, Navi Mumbai, Maharashtra 400706, India",
+    "city": "Konkan Division",
+    "area": "Nerul",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "652056f417fdcc547f65aeb5",
+    "title": "gharapna management",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6999,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "7,000₹ – 18,000₹\nper month\nPremium very neat and clean paying guest for students as well working professional male, female, family and couple type guest house available in different building\n\nAC NON AC both available\nIn furniture\nFridge\nWashing machine\nBed\nMatress\nCupboard\nWater purifier\nHigh speed wifi\nKitchen aminities many more Available\nHouse keeping\n\nJust need to shift with your bag\n\nAC – Private Room with attached washroom-18000(Per Month) 1200- ( Perday)\n\nDouble Sharing -9000(Monthly) 600(per day)\n\n3 Sharing- 7000(Monthly) – 400( per day)\n\nNON AC- Private Room -13000(Monthly) & 600- Perday\n\nDouble sharing -7000(Monthly) 300- Perday\n\nTriple sharing – 5500(monthly) 250- Perday Electricity bill additional as per meter reading.\n*2000 rs taken as joining fee(For joining charge, documentation,rent agreement,police noc)\nelectricity bill additional based on actual meter reading separate meter available\nSecurity deposit – 1.5 month rent for Non AC & 2 Month for Ac",
+    "state": "mumbai",
+    "phone": "9136666813",
+    "zipCode": "400706",
+    "whatsappNumber": "9136666813",
+    "address": "Building no - 125 , lane 6, nandanvan CHS , sector 17, nerul, Navi Mumbai , Maharashtra , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617969/vele78cjumdrnttum4kc.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617969/rzsuvjtjzd6fzhmgt1vs.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617969/iluqf1uo0k9doljzmkjh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617969/wowjig2uniqhsoycawq8.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617970/lkctjz0prmh99dfpo6bb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617969/a90ofmtyywa0ty5hfdht.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617971/tmuojncqyhvtfr8ivdbr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617971/eeqyo9v1ow3wqvlhkhpz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617972/fscxncbnjimsjvdy4m7h.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696617972/rskapmdcmwvwz8qsr1bs.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1gOr2x2kEAwf"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:50:28.398Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.0237174,
+    "lng": 73.04039329999999
+    },
+    "markerPosition": {
+    "lat": 19.0237174,
+    "lng": 73.04039329999999
+    },
+    "address": "CBD Belapur, Navi Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "CBD Belapur",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520570417fdcc547f65aec1",
+    "title": "jagtap hostel",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 4500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Jagtap Hostel\nA/C and Non ac Rooms available in 1, 2, 3 & 4 sharing category .Economical rates. No deposit.\nFacilities:\nFree wifi 12 mbps speed ,Drinking Water cooler ,geyser , Western toilet.\n5 min walking distance from belapur station.\nAdd – jagtap hostel, morya app, sec -19 , plot no -500, near A one mutton shop, CBD BELAPUR (E).\nFor direction check on google maps (jagtap hostels ).\n********************************",
+    "state": "mumbai",
+    "phone": "8080803631",
+    "zipCode": "400614",
+    "whatsappNumber": "8080803631",
+    "address": "Jagtap hostel , Morya app , sec-19, plot -500, cbd belapur (e) , Mumbai , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618151/tos5ahruxrii1uzpph3t.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618156/edxiihwhekxsgkpvbcap.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618158/atdo7xtfkfp9mw8lysed.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618159/tt0igiu4nyqtscjruklr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618159/yl22pbbhna5zpb7m3hp7.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618160/xknloaf3scwwrpgx4bkh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618160/ko74nvp7muefdm8qr1xz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618160/cjt14l7yzt7euvgiga92.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618174/ahsigmhnuqt6mbsewbrr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618206/knxscc9ewme2bx6z5mwv.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe0f717fdcc547f65aae2",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:50:44.738Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "markerPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "address": "Goregaon, Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Goregaon",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520575b17fdcc547f65aecb",
+    "title": "nandan space realty",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 50000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "FULLY FURNISHED…..\n\nSofa\n\nDaining table with 6 chair\n\nStudy table\n\nTV\n\nwashing machine\n\nfridge\n\nwater purify\n\nBed\n\nWardrobe\n\n2 Air condition\n\n2 Geyser\n\nFan & lights\n\npipeline Gas\n\nCONNECTIVITY..\n\n5 mints walkable westurn express\n\nHighway\n\n2 km railway station\n\n5-7 mints walkable metro station\n\n5 mints walkable Oberoi mall\n\n5 mints Drive walkable nesco It park\n\n5 mints Drive walkable Nirlon knowledge park\n\n10 mints Drive lotus corporate park",
+    "state": "mumbai",
+    "phone": "9892658028",
+    "zipCode": "400063",
+    "whatsappNumber": "9892658030",
+    "address": "Babacomplex, Goregaon(East), Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618269/jvqi1zrszkwmfi3afknm.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618269/fdxp5habkqcgfe3x9cob.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618269/sekva5bjfjiflwdkrkm9.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618269/vrouawis3fomsdwxocxi.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618270/ezybebskdaxs9wp2mwaq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618270/moy3q0wnv645li32hkay.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe34f17fdcc547f65ab2a",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1iDVeTuKjLdi"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:52:11.767Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6180231,
+    "lng": 77.071574
+    },
+    "markerPosition": {
+    "lat": 28.6180231,
+    "lng": 77.071574
+    },
+    "address": "Rani Bagh, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Rani Bagh",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "652057e617fdcc547f65aee0",
+    "title": "mahadev property",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 20000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully furnished\n\nRent 20000\n\n2+1 Second floor\n\nCar parking\n\n891 sq. ft",
+    "state": "delhi",
+    "phone": "8810356752",
+    "zipCode": "110034",
+    "whatsappNumber": "8810356752",
+    "address": "Mahadev property 1905 multani mohalla Rani bagh Delhi 110034, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618430/weipjtvlprrtgyvjchn0.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618431/lf7hetuwsfl2edfwhqtv.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618432/mcsjiw3zfgwf0rrxjggp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618432/aolehplisvnoxskwc0x7.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618433/jcz7ocirbslk3qmuy7wl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618435/qqnmnixkhpfpdi5psfz9.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe13b17fdcc547f65aaeb",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T18:54:30.451Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "markerPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "address": "Goregaon, Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Goregaon",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "652058e617fdcc547f65aefa",
+    "title": "nandan space realty",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 75000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Facing-North\n\nFULLY FURNISHED…..\n\nSofa\n\nDaining table with 6 chair\n\nStudy table\n\nTV\n\nwashing machine\n\nfridge\n\nwater purify\n\nBed\n\nWardrobe\n\n2 Air condition\n\n2 Geyser\n\nFan & lights\n\npipeline Gas\n\nCONNECTIVITY …..\n\n2 mints walkable westurn express\n\nHighway\n\n5-7 Mints walkable\n\nrailway station 5-7 minus walkable metro station\n\n5 Mints drive Oberoi mall\n\n5 Mints walkable nesco It park\n\n5 Mints walkable Nirlon knowledge park\n\n10 Mints lotus corporate park",
+    "state": "mumbai",
+    "phone": "9892658031",
+    "zipCode": "400063",
+    "whatsappNumber": "9892658031",
+    "address": "Yash Orion Tower, Goregaon(East), Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618672/ualhoaljayadjlqk29sp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618673/erroooqgycy49vfokf5n.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618673/rrfyoj1fz7nlmp5w0llo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618674/quzjhhktboegykuqfag3.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618674/dh5mgub5jgmrjacluuov.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618674/rvq8hqz5funtss1pylzo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618675/dczmbgfknzajqv5kaxth.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe34f17fdcc547f65ab2a",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1pBJb7HICIeL"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:58:46.779Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6180231,
+    "lng": 77.071574
+    },
+    "markerPosition": {
+    "lat": 28.6180231,
+    "lng": 77.071574
+    },
+    "address": "Rani Bagh, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Rani Bagh",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "6520590a17fdcc547f65af06",
+    "title": "mahadev property",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 9498,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully Furnished\n\n3rd Floor\n\nAC Room",
+    "state": "delhi",
+    "phone": "8810356752",
+    "zipCode": "110034",
+    "whatsappNumber": "8810356750",
+    "address": "Mahadev property 1905 multani mohalla Rani bagh Delhi 110034, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618694/uri6tlm1cpoxmgknr5kt.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618694/tkxffrbkiuhcx7kkl9r7.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618695/zq5vnawfeydgv94crcsr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618695/uxvdrivj2essjjjos9cl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618694/ozcimuqdxjvqqi4cs6xp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618695/b18eqmmwhbq6e4xxbbtb.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe13b17fdcc547f65aaeb",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1pnyHxDG94OW"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T18:59:22.786Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 18.9389181,
+    "lng": 72.8286535
+    },
+    "markerPosition": {
+    "lat": 18.9389181,
+    "lng": 72.8286535
+    },
+    "address": "New Marine Lines, Marine Lines, Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Marine Lines",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520595b17fdcc547f65af35",
+    "title": "heaven’s stay",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 30000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "30,000₹ – 40,000₹\nper month\nThree sharing 40000\nFor sharing 36000\nShik sharing 30000 lunch breakfast dinner Wi-Fi Suvidha electric city TT table sari facility include hai",
+    "state": "mumbai",
+    "phone": "9619106868",
+    "zipCode": "400020",
+    "whatsappNumber": "9619106868",
+    "address": "93 , Maharshi karve rd , dhobi talao , new Marine Lines , marine lines, Mumbai , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618791/yufiinqdyvohk9aapezy.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618791/a5rejyuecydino3tp9m1.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618792/wtwmu9xfrnkj2bktxmko.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618792/thojq3dinr7d4udxfcjc.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618792/k7st0hegcmrw6r0olpge.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618793/x0lsmofhsnqahnzfonvn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618793/xu17vqf02gzf1lkdksuq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618794/cgf61bcqc9uvl9gqnchf.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml1rF4gQSaHNlI"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T19:00:43.689Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.6217426,
+    "lng": 77.08826950000001
+    },
+    "markerPosition": {
+    "lat": 28.6217426,
+    "lng": 77.08826950000001
+    },
+    "address": "Janakpuri, New Delhi, Delhi, 110058, India",
+    "city": "Delhi Division",
+    "area": "Janakpuri",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "652059fb17fdcc547f65af41",
+    "title": "nisha girl’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 7000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully Furnished\n\nPG FOR GIRLS IN JANAKPURI, NEAR BHARTI COLLEGE AND MAHARAJA SURAJMAL INSTITUTE OF TECHNOLOGY , WALKING DISTANCE 3 TO 5 MINS.",
+    "state": "delhi",
+    "phone": "9871984242",
+    "zipCode": "110058",
+    "whatsappNumber": "09871984243",
+    "address": "277, Block C-4F, Janakpuri, New Delhi, Delhi, 110058, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618982/vie8vh2claavx5e6tjsj.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618982/a7pascuwje0v9m2giwqq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618983/wqebuwskznt1ryuyky4d.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618983/kxambg0tatsgqvaimw8l.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696618983/llkztxi5qb8qyyzbbbmw.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520512d17fdcc547f65ada8",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T19:03:23.607Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "markerPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "address": "Goregaon, Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Goregaon",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "65205a4f17fdcc547f65af4d",
+    "title": "mantri serene tower",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 50000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "1.5 lakh deposit\n\nFully furnished\n\nTV\n\nAC",
+    "state": "delhi",
+    "phone": "9920458842",
+    "zipCode": "400063",
+    "whatsappNumber": "9920458840",
+    "address": "Mantri Serene tower, film city road, near infinity I.t Park ,Goregaon east, Maharashtra, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619032/k06b9j1iougnqpxdrjgb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619039/cbeocqvth42rnkssgb2l.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619045/j0abpqmslw5ner6n5wak.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619054/b2faqsgd6ikzalf8ipqg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619060/ik0gdosxurkttqjldu7b.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619062/pevhkczxzenbpp9krfgk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619063/f3scrirdtdycpql1ltrv.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619062/ial5iipbe8qhiizgzbf1.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619061/rkhgydle8glqble2qbvr.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe37017fdcc547f65ab2d",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T19:04:47.711Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "markerPosition": {
+    "lat": 19.1662566,
+    "lng": 72.8525696
+    },
+    "address": "Goregaon, Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Goregaon",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "65205a4f17fdcc547f65af51",
+    "title": "mantri serene tower",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 50000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "1.5 lakh deposit\n\nFully furnished\n\nTV\n\nAC",
+    "state": "delhi",
+    "phone": "9920458842",
+    "zipCode": "400063",
+    "whatsappNumber": "9920458840",
+    "address": "Mantri Serene tower, film city road, near infinity I.t Park ,Goregaon east, Maharashtra, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619032/k06b9j1iougnqpxdrjgb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619039/cbeocqvth42rnkssgb2l.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619045/j0abpqmslw5ner6n5wak.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619054/b2faqsgd6ikzalf8ipqg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619060/ik0gdosxurkttqjldu7b.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619062/pevhkczxzenbpp9krfgk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619063/f3scrirdtdycpql1ltrv.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619062/ial5iipbe8qhiizgzbf1.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619061/rkhgydle8glqble2qbvr.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe37017fdcc547f65ab2d",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T19:04:47.978Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1018031,
+    "lng": 72.89035249999999
+    },
+    "markerPosition": {
+    "lat": 19.1018031,
+    "lng": 72.89035249999999
+    },
+    "address": "Mumbai, Maharashtra 400072, India",
+    "city": "Konkan Division",
+    "area": "Mumbai",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "65205bf617fdcc547f65af62",
+    "title": "om enterprises girl’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 13000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "fully furnished\nwhite painted\nattach lat bath",
+    "state": "mumbai",
+    "phone": "08767697737",
+    "zipCode": "400072",
+    "whatsappNumber": "08767697737",
+    "address": "Chandivali, Powai, Mumbai, Maharashtra 400072, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619493/tmzf6266nuebsifgvrdo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619493/nxkcvshfftlgjkiqmws0.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619493/n5ibiwx8do9ng5cbumc3.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619493/z56fh1lhcwfper6bojvn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619494/tqbqdns4ukvb9m06xwpn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619493/eflbfjlvtyhuiqoxsyph.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe30017fdcc547f65ab1e",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T19:11:50.802Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.0283389,
+    "lng": 73.0375761
+    },
+    "markerPosition": {
+    "lat": 19.0283389,
+    "lng": 73.0375761
+    },
+    "address": "Navi Mumbai, Maharashtra 400614, India",
+    "city": "Konkan Division",
+    "area": "Navi Mumbai",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "65205d4e17fdcc547f65af7f",
+    "title": "jagtap pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Jagtap Hostel\nA/C and Non ac Rooms available in 1, 2, 3 & 4 sharing category .Economical rates. No deposit.\nFacilities:\nFree wifi 12 mbps speed ,Drinking Water cooler ,geyser , Western toilet.\n5 min walking distance from belapur station",
+    "state": "mumbai",
+    "phone": "8080803631",
+    "zipCode": "400614",
+    "whatsappNumber": "8080803631",
+    "address": "Sec-19, plot no-500, near a one meat shop , cbd Belapur, Mumbai , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619818/idcm9fpjanduyixtjwua.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619819/au6ie3lno9xyw21iwtgs.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619820/fqevvtpoccmlwnjz3qh8.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619820/zp1gvvil0r9esudo75yt.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619819/rywdpnwkrjcrqmxiwokc.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696619819/hgw7jlguldrsesfftxfz.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe0f717fdcc547f65aae2",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml292U5Lk0LPM6"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T19:17:34.925Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8539518,
+    "lng": 75.7612568
+    },
+    "markerPosition": {
+    "lat": 26.8539518,
+    "lng": 75.7612568
+    },
+    "address": "Jaipur, Rajasthan 302020, India",
+    "city": "Jaipur Division",
+    "area": "Jaipur",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65205e2f17fdcc547f65afa1",
+    "title": "kalka girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "fully furnished\nattach lat bath",
+    "state": "jaipur",
+    "phone": "9352094835",
+    "zipCode": "302020",
+    "whatsappNumber": "9352094835",
+    "address": "74/104 sector 7 Shipra path mansarovar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620067/wuwp3fkad4qgdcwzw9g0.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620067/bodbhkckmuy8xwhduyrx.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620068/c942lqskbw4nousvs6u0.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620068/eidff0itkohrevkksohk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620068/y7ngbgteujpbbjoqo9sk.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fdef417fdcc547f65aab9",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-06",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-06T19:21:19.934Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.10778570557461,
+    "lng": 72.82648586137692
+    },
+    "markerPosition": {
+    "lat": 19.10778570557461,
+    "lng": 72.82648586137692
+    },
+    "address": "s4, Juhu Church Rd, Juhu, Mumbai, Maharashtra 400049, India",
+    "city": "Konkan Division",
+    "area": "Juhu",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520605717fdcc547f65afd2",
+    "title": "bostels",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 25000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "25,000₹\nper month\nBreakfast, Lunch and Dinner.\n\nDaily Fruits.\n\nSeparate Dinning Area.\n\n24/7 Available Tea, Coffee and Milk.\n\nFully Equipped kitchen with all Appliances.\n\nSmart Television.\n\nAll Room Air Conditioner.\n\nBed Side table n Bed Lamp.\n\nLaundry Service Facilities Available.\n\nComputer with Printers Attached.\n\nFully furnished Rooms.\n\nFull Size Single beds with Hydraulic.\n\nFull Size Cupboard with locker.\n\n24/7 House Keeping staff cleanliness & Neatness.\n\n24/7 Security Including CCTV.\n\n24/7 Bio Metric Attendance System.\n\n24/7 Hours High Speed WIFI Connection.\n\nWell Equipped Washroom.\n\nBed Side Socket & Switch for Laptop or\n\nCell Phone Charging Purpose.\n\nAll Locations are At Proximity to the College.\n\nDoctor On Call.\n\nAirport Pickup & Drop. (Only Girls Students.)",
+    "state": "mumbai",
+    "phone": "9153215321",
+    "zipCode": "400049",
+    "whatsappNumber": "9153215321",
+    "address": "Office no1, plot no 24 , moti mahal , near mn and mithibai college , behind nmims college , juhu - vile parle, Mumbai , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620434/gbjey9xftk6wbbl2bqds.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620436/dgzfqatmesoo5h34lz6a.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620439/yrqchkt1tocrdijfbx7c.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620440/g6fstdhcwsqhb2ipoims.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620440/tppzfzj9gxubegga1j6x.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620443/vib1ojbegb2wfnfdaxco.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620443/jj0rzpsg1wbx9d2y15ct.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml2MioPSYQLa0y"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T19:30:31.686Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1834895,
+    "lng": 72.9780731
+    },
+    "markerPosition": {
+    "lat": 19.1834895,
+    "lng": 72.9780731
+    },
+    "address": "Thane East, Thane, Maharashtra 400603, India",
+    "city": "Konkan Division",
+    "area": "Thane East",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6520617017fdcc547f65aff4",
+    "title": "shop",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 15000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Shop for sale",
+    "state": "mumbai",
+    "phone": "8010355934",
+    "zipCode": "400603",
+    "whatsappNumber": "8010355934",
+    "address": "raziv plaza, backside of excise office Thane East, Mumbai pin code",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620802/gmfnbpv994gkyw9k145v.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696620803/cdlu6ttbmntn4s77yd95.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-06",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_Ml2RfBy9FviUep"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-06T19:35:12.389Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.9037288,
+    "lng": 75.7237707
+    },
+    "markerPosition": {
+    "lat": 26.9037288,
+    "lng": 75.7237707
+    },
+    "address": "Gulab Vihar B, Lalarpura, Jaipur, Rajasthan 302021, India",
+    "city": "Jaipur Division",
+    "area": "Lalarpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652114dc17fdcc547f65b0f0",
+    "title": "room",
+    "category": "room",
+    "pricingType": "PRICE",
+    "price": 3500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Gosala gulab vihar  ke samne",
+    "state": "jaipur",
+    "phone": "9079625701",
+    "zipCode": "302033",
+    "whatsappNumber": "9079625701",
+    "address": "Gosala gulab vihar ke samne,Gulab Vihar ,Sanganer, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696666799/kyzhrltx89r7bk4cyx0x.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696666799/tuswkawnxi1xqsmyrs9s.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696666799/lcfgwduzjcihl5l0wf9j.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696666799/iucaclyn72tkhnmwzlpq.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520500c17fdcc547f65ad58",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:20:44.866Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.702697,
+    "lng": 77.18518069999999
+    },
+    "markerPosition": {
+    "lat": 28.702697,
+    "lng": 77.18518069999999
+    },
+    "address": "Mahendru Enclave, Gujranwala Town, Delhi, 110052, India",
+    "city": "Delhi Division",
+    "area": "Gujranwala Town",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "6521166617fdcc547f65b25a",
+    "title": "shree dham girl’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 9000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "We are premium girls accommodation providers in North west Delhi situated near Azadpur Metro Station at yellow, pink and Voilet line intersection of Delhi Metro Network.\n\nWe provide-\n\nAC & Non AC Rooms\n\nTwin sharing rooms\n\nTriple sharing rooms\n\nDouble sharing rooms\n\nSingle AC rooms\nprice : 9000 - 15000",
+    "state": "delhi",
+    "phone": "7065665770",
+    "zipCode": "110009",
+    "whatsappNumber": "9643865957",
+    "address": "Delhi Girls PG Shreedham D 13 Mahendru Enclave near metro pillar number 40, Azadpur Metro station Delhi 110009 , Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667170/gxsue4q129c7hv5rcuyl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667170/dqachnxqildporhnubmm.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667171/q090kajlmht697kkbpsy.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667171/rdzjdkwksicivkqbqcys.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667170/wborlvvt7rkpfku8dnhz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667171/mcihepgc2knixjtbnsbb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667172/mcdsxcgrn4lpjr9motlp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667172/ssy8nakstobuj5iywrsy.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667172/xccdemhcw6iqshf27yt5.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1a417fdcc547f65aaf7",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:27:18.005Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 27.2979633,
+    "lng": 75.8156257
+    },
+    "markerPosition": {
+    "lat": 27.2979633,
+    "lng": 75.8156257
+    },
+    "address": "Jagatpura, Rajasthan 303806, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652117cd17fdcc547f65b27c",
+    "title": "shree govind market",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 12000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fall selling insided\n\n13*25 sq.ft\n\nNear SKIT COLLEGE",
+    "state": "jaipur",
+    "phone": "8094960551",
+    "zipCode": "302017",
+    "whatsappNumber": "8094960551",
+    "address": "Nerak SKIT COLLEGE Plot 11-12 shree govind market Shivam Nagar, jagtpura, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667397/xbsx80jhfvtlzzyy1lsg.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe11e17fdcc547f65aae8",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:33:17.197Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.7408388,
+    "lng": 77.1125599
+    },
+    "markerPosition": {
+    "lat": 28.7408388,
+    "lng": 77.1125599
+    },
+    "address": "Sector 17, Rohini, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "652118fdef298e6d057d406e",
+    "title": "shree shyam chatrawas girl’s pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 9498,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully furnished\n\nAC Rooms\n\nThree Meals a Day",
+    "state": "delhi",
+    "phone": "09899971235",
+    "zipCode": "110085",
+    "whatsappNumber": "09899971235",
+    "address": "Plot No 13A Shabad Extension Main Bawana Road Rohini Sect 17 Delhi 110085 Next to Shrine Hospital Opp Amarjoyti Colony, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667836/ocsfjxypjtp9l4lnimqp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667836/wszwr5x3xhs8yi4ulrwn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667837/uez8habxobvvh1sa3kp3.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667837/k8pepibrvpkqfrgwiurw.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667837/hanniyfd3rkuxwdjxcaq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667837/t4yxpegonvq8baisjvoh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667838/jnpuuwuorq8vbc2euyzl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667839/wko3iu8zxh2pqjnelrkg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696667839/xfcsl9u2quuext1uotw9.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe0fc17fdcc547f65aae5",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlFmte7ThclfK6"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T08:38:21.247Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8813418,
+    "lng": 75.78149940000002
+    },
+    "markerPosition": {
+    "lat": 26.8813418,
+    "lng": 75.78149940000002
+    },
+    "address": "Gopal Pura Mode, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Gopal Pura Mode",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652119d7ef298e6d057d407f",
+    "title": "shree shyam girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Girls pg\n\nElectricity and food included\n\nWifi\n\nAc/non ac\n\nSingle seater / two seater / three seater\n\n8,500₹\nper month",
+    "state": "jaipur",
+    "phone": "9119112731",
+    "zipCode": "303108",
+    "whatsappNumber": "9119112731",
+    "address": "B 228A kirti nagar , neàr Arjun nagar underpass , GOPALPURA , JAIPUR , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668099/qexehcobw1chmyzuubal.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe8fe17fdcc547f65abb6",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:41:59.210Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.0473216,
+    "lng": 73.0699046
+    },
+    "markerPosition": {
+    "lat": 19.0473216,
+    "lng": 73.0699046
+    },
+    "address": "Kharghar, Navi Mumbai, Maharashtra, India",
+    "city": "Konkan Division",
+    "area": "Kharghar",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "65211b31ef298e6d057d409e",
+    "title": "skylux",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 7000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "WOODEN BED WITH STORAGE\n\nCUPBOARD\n\nV MATTRESS\n\nFIBRE OPTIC WIFI HIGH SPEED\n\n@ 200 MBPS\n\n/ KITCHEN WITH GAS & STOVE\n\nRO WATER\n\nMAID FOR CLEANING WASHING MACHINE\n\nRO WATER FILTER\n\n24 HRS WATER / POWER /\n\nSECURITY\n\nSPACIOUS & HYGIENE ROOMS\n\n24 HOURS SECURITY CCTV\n\nCAMERA\n\nV SEPARATE FLOORS FOR PROFESSIONALS AND STUDENTS\n\nGOOD VENTILATION\n\nSAFE ACCOMODATION TO\n\nSTAY\n\nFOOD NOT INCLUDE!\n\nOption to get Independent Internet service!\n\n3 – Option to Stay\n\n1. Private single room 39000 (Especially Designed for Work from Home\n\nDeposit 313000\n\n2. Open sharing room ⅔7000\n\nDeposit ⅔11000\n\n3. AC Double sharing room\n\n39000\n\nDeposit ⅔15000\n\nAll Rates are Non – Negotiate\n\n7,000₹ – 9,000₹\nper month",
+    "state": "mumbai",
+    "phone": "9921672843",
+    "zipCode": "410210",
+    "whatsappNumber": "9921672843",
+    "address": "Skylux Paying Guest, G-49, Sector 12, Shivaji chowk, Kharghar, Navi mumbai,, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668426/bmphrmz8qxgyreweayt7.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668426/g1lazycie7g5yjytoe2k.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668426/hmobsas0coamp80w4lqg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668426/g0yqsrhxnmeloqhhvfwa.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668427/fosqofpz6l1wmpitrwjv.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668427/ef0dw6zzlerihfllqvui.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668428/ykeljft6ngeafi9yyat3.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668428/qswfecwuh4cirmnoryze.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1af17fdcc547f65aafa",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:47:45.647Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8698382,
+    "lng": 75.7854754
+    },
+    "markerPosition": {
+    "lat": 26.8698382,
+    "lng": 75.7854754
+    },
+    "address": "Ashok Vihar, Gopal Pura Mode, Jaipur, Rajasthan 302015, India",
+    "city": "Jaipur Division",
+    "area": "Gopal Pura Mode",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65211c16ef298e6d057d40b7",
+    "title": "suraj girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Electricity & food included\n\nCooler available\n\nSingle/two seater rooms available\n\n ",
+    "state": "jaipur",
+    "phone": "9214984499",
+    "zipCode": "302015",
+    "whatsappNumber": "9214984501",
+    "address": "Trivani choraha, behind hari shankar restorent ,Ashok Vihar, Gopal Pura Mode, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668605/www8edruplac4hqo6daf.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668605/a9v2ylea4r0gzchddjwj.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe95417fdcc547f65abbc",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:51:34.413Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 27.2979633,
+    "lng": 75.8156257
+    },
+    "markerPosition": {
+    "lat": 27.2979633,
+    "lng": 75.8156257
+    },
+    "address": "Jagatpura, Rajasthan 303806, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65211cd2ef298e6d057d40e2",
+    "title": "taapesh singh",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 8000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "10 by 20 sq feet",
+    "state": "jaipur",
+    "phone": "9636087887",
+    "zipCode": "302017",
+    "whatsappNumber": "9636087887",
+    "address": "D9 10 sitharth nagar, jagatpura, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668845/sbmbpszmcfiluid88jpb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696668845/zxb52c3flbyey67yyih4.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520500c17fdcc547f65ad58",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlG4CeokBWMmgj"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T08:54:42.454Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65211d74ef298e6d057d4104",
+    "title": "vraun jain rooms",
+    "category": "room",
+    "pricingType": "PRICE",
+    "price": 10000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Full furnished\nAc\n\nAttached lat-bath\n\nGeyser",
+    "state": "jaipur",
+    "phone": "8000314230",
+    "zipCode": "302017",
+    "whatsappNumber": "8000314230",
+    "address": "D/8 Sarwasti nagar Malviya Nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696669033/kpll1ldvnnnujmpfw3ty.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696669033/ihyij7g9zb8itd2eobc3.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696669033/khqbjoonjjhzbswmabwq.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe01717fdcc547f65aaca",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T08:57:24.560Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8749372,
+    "lng": 75.7683995
+    },
+    "markerPosition": {
+    "lat": 26.8749372,
+    "lng": 75.7683995
+    },
+    "address": "Gurjar Ki Thadi, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Gurjar Ki Thadi",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652137b8ef298e6d057d4120",
+    "title": "bholenath boys p.g",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "6,000₹ – 7,000₹\nper month\nFull furnished\n\nAttached washroom\n\nWifi, geyser & RO water facilities",
+    "state": "jaipur",
+    "phone": "9001086020",
+    "zipCode": "302020",
+    "whatsappNumber": "9001086018",
+    "address": "Gurjer ki thadi, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696675734/iuk8r1vebveve3xvzcja.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696675735/eukhx8yeyjxecqbby3xp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696675735/suwqcwhzv2zd4pfxhg7l.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe24517fdcc547f65ab0f",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T10:49:28.908Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.73826769999999,
+    "lng": 77.0822151
+    },
+    "markerPosition": {
+    "lat": 28.73826769999999,
+    "lng": 77.0822151
+    },
+    "address": "Rohini, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "652139bbef298e6d057d4134",
+    "title": "boys pg ",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "6,000₹\nper month",
+    "state": "delhi",
+    "phone": "9205029887",
+    "zipCode": "110085",
+    "whatsappNumber": "9205029887",
+    "address": "Rohini , New Delhi ",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676251/mlimj8xquogogtqdtzgl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676251/ji227dgwfqn5t6tne5hn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676251/f5jm7g7vwpi6b1vny4hg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676251/zbkfscaut8d7uy6a705o.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676251/ycgfajl6qwtngwl9fmyu.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676251/jaeuhm9di2s7jng3md61.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696676253/n5wfdhnscrjzfaszqbs0.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe06d17fdcc547f65aad0",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T10:58:03.814Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "markerPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "address": "Pratap Nagar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6521965aef298e6d057d4187",
+    "title": "choto lal shrma",
+    "category": "room",
+    "pricingType": "PRICE",
+    "price": 4500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": " Room",
+    "state": "jaipur",
+    "phone": "9461801008",
+    "zipCode": "302033",
+    "whatsappNumber": "9461801008",
+    "address": "Gosala advance school ke pass, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696699844/dp9zeh4qyqf6lrhfwwsl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696699846/ydsbmmeiu8wust3fjeia.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696699844/nf0qlhvspyppdtdijqfr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696699847/kktjtbeqmm4mkjgzyhkw.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520500c17fdcc547f65ad58",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlOtwfLs2Z2Gkt"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T17:33:14.782Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8749372,
+    "lng": 75.7683995
+    },
+    "markerPosition": {
+    "lat": 26.8749372,
+    "lng": 75.7683995
+    },
+    "address": "Gurjar Ki Thadi, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Gurjar Ki Thadi",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6521979fef298e6d057d419b",
+    "title": "desert girls p.g",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,000₹ – 10,000₹\nper month\nLuxury cooler room\n\nAttached lat Bath\n\nR.O water\n\nParking for vehicles\n\nCCTV camera security\n\nHouse keeping\n\nA.C rooms available",
+    "state": "jaipur",
+    "phone": "9257615857",
+    "zipCode": "302020",
+    "whatsappNumber": "9257615857",
+    "address": "64-B, jay Bharat Nagar, gurjar ki thadi, Jaipur , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696700297/dxqqp0cqlnxpswhll4tr.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696700297/auawayymfoioppqqjijp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696700297/tegtco6ei6akrhts7s1q.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696700298/rv90gpfxxj9n3mlvs1no.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe26617fdcc547f65ab12",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T17:38:39.564Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 18.520359307209993,
+    "lng": 73.85661416931151
+    },
+    "markerPosition": {
+    "lat": 18.520359307209993,
+    "lng": 73.85661416931151
+    },
+    "address": "124, Bhavani Peth, Shobhapur, Kasba Peth, Pune, Maharashtra 411011, India",
+    "city": "Pune Division",
+    "area": "Kasba Peth",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "65219b54ef298e6d057d41e9",
+    "title": "chabriyalyfstyles",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 15000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "15,000₹ – 16,000₹\nper month\nRent: in a 2bed sharing AC room ₹15000/ pm per bed n in a 6 bed sharing AC room it will be ₹11000 pm per bed\n\nFOR GIRLS ONLY",
+    "state": "mumbai",
+    "phone": "7738026660",
+    "zipCode": "400058",
+    "whatsappNumber": "7738026660",
+    "address": "Flat B 103 GREENFIELDS Lokhandwalla Complex main road opp RBL n HDFC banks near Celebration Club Andheri West, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701095/oq1afnmrj3wbaa3wtn02.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701096/pisaqu02s3ve4t50umwf.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701096/qoxskmvhnpgk586yizvn.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPGI2JnYV0zTS"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T17:54:28.930Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.905543930087433,
+    "lng": 75.74285638465574
+    },
+    "markerPosition": {
+    "lat": 26.905543930087433,
+    "lng": 75.74285638465574
+    },
+    "address": "F 107, Girnar Colony South, Vaishali Nagar, Jaipur, Rajasthan 302021, India",
+    "city": "Jaipur Division",
+    "area": "Vaishali Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65219cfcef298e6d057d421d",
+    "title": "basement",
+    "category": "others",
+    "pricingType": "PRICE",
+    "price": 35000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "35,000₹\nper month\n800sq feet",
+    "state": "jaipur",
+    "phone": "9001000086",
+    "zipCode": "302021",
+    "whatsappNumber": "9001000086",
+    "address": "Samachar jagat , gandhi path , Jaipur pin code",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701639/fxyb4x5atxrha1vhrxwq.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "Basement",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPNoOo0kSjFAn"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:01:32.291Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "markerPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "address": "Mansarovar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Mansarovar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65219d1eef298e6d057d422e",
+    "title": "drishti girls p.g",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 12000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "We provide all the facility like luxury facilities at very affordable rates\n\nAC Rooms\n\nFull furnished\n\nAttached washroom\n\n24hr. WIFI, Ro water & CCTV camera security\n\nHygienic tasty vegetarian meals\n\nSingle, double & triple sharing rooms",
+    "state": "jaipur",
+    "phone": "8619100147",
+    "zipCode": "302020",
+    "whatsappNumber": "8619100147",
+    "address": "1/234, SFS Mansarover, near ICG college, Jaipur, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701647/gsvqanw0oijrnaln3o1y.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701648/ykxcxitvpg1tyn6mrqqi.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701655/ppv30xpyngk0tuijcnls.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701655/k7nvimo32gwcisdrfsc4.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701654/xwj46orbcldxinxodmpk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701655/v0xith98xstktkysphtd.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701656/gtq6b9pab0rgpz09wmpj.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe1f417fdcc547f65ab03",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T18:02:06.226Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.905658739786244,
+    "lng": 75.74294221534421
+    },
+    "markerPosition": {
+    "lat": 26.905658739786244,
+    "lng": 75.74294221534421
+    },
+    "address": "No 411, Crown Square, Gandhi Path W, Block E, Vaishali Nagar, Jaipur, Rajasthan 302021, India",
+    "city": "Jaipur Division",
+    "area": "Vaishali Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65219e0fef298e6d057d4238",
+    "title": "shop for rent",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 60000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "60,000₹\nper month\n800sq feet shop",
+    "state": "jaipur",
+    "phone": "9001000086",
+    "zipCode": "302021",
+    "whatsappNumber": "9001000086",
+    "address": "Samachar jagat , gandhi path , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696701916/jouyr8pj05tp5smpnq4a.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPSfDtatzryZj"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:06:07.389Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.955921917207373,
+    "lng": 75.68805502327882
+    },
+    "markerPosition": {
+    "lat": 26.955921917207373,
+    "lng": 75.68805502327882
+    },
+    "address": "No G 1/93 Sarna Dungar Industrial Area, Jaipur, Hathod, Rajasthan 302012, India",
+    "city": "Jaipur Division",
+    "area": "Jaipur",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65219f8aef298e6d057d424c",
+    "title": "shekhawati pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "6,500₹ – 8,000₹\nper month\n\nfully furnished and secure",
+    "state": "jaipur",
+    "phone": "9314134359",
+    "zipCode": "302012",
+    "whatsappNumber": "9314134361",
+    "address": "Parivahan nagar, jhotwara , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702188/okdz1kkeiczcdsiyyobb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702192/cjq2m4xoohers1w5ig0j.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702192/rykkjfttgmvrnvlkqwqt.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702193/sdtmkqtmr60uakq9fgn0.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702196/k5xzw63glwg7plox0mh8.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPZKj1cT9el3K"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:12:26.043Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.02164125606997,
+    "lng": 72.83752191534425
+    },
+    "markerPosition": {
+    "lat": 19.02164125606997,
+    "lng": 72.83752191534425
+    },
+    "address": "81 / 82 A Purushottam Towers, behind Siddhivinayak temple, Dadar West, Dadar, Mumbai, Maharashtra 400028, India",
+    "city": "Konkan Division",
+    "area": "Dadar",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6521a085ef298e6d057d4260",
+    "title": "maruti krupa",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 6999,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "7,000₹ – 12,000₹\nper month\nFacility :\n\nAC, Fridge, Wi-Fi, Geyser, Mineral Water 24 hour Water supply\n\nRent: AC – 4 sharing 10,000\n\n– 2 sharing 12,000/- (per month)\n\nNon-AC – 4 sharing 7,000 – 2 sharing 8,000/- (per month)",
+    "state": "jaipur",
+    "phone": "9920276511",
+    "zipCode": "400028",
+    "whatsappNumber": "9920276511",
+    "address": "Shree Sai Siddhi Housing Co-Op. Society Room No. 701, Bhavani Shankar Road, Opp. LR Bldg., Dadar (West), Mumbai, Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702544/if737ltmq9dy2rgcbuqt.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702544/zri1n1h2cvnw5hqzx4gh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702545/uam3xflhu0nmuddedumb.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702546/lfyfdzkizt6lvyiiduqo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702546/ekahzkixgans6sj8zucp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702547/djcf0wg01lhhcpw9ouuz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702549/ikxzxnrqqzy6xetek824.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702550/kdtetmtwrrdshv1xmyj4.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702552/amzwkwl8pr0l83orflep.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPdl7YWEbkGTq"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:16:37.460Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 19.1630445,
+    "lng": 72.8392995
+    },
+    "markerPosition": {
+    "lat": 19.1630445,
+    "lng": 72.8392995
+    },
+    "address": "Mumbai, Maharashtra 400104, India",
+    "city": "Konkan Division",
+    "area": "Mumbai",
+    "state": "Maharashtra"
+    },
+    "boost_available": 0,
+    "_id": "6521a23fef298e6d057d4288",
+    "title": "pg mumbai",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "5,000₹ – 6,000₹\nper month\nboys pg\n\nGas\n\nbed, mattress\n\nwater filter\n\ndaily cleaning\n\nplay ground near room\n\n24hrs water and electricity",
+    "state": "mumbai",
+    "phone": "9987420808",
+    "zipCode": "410505",
+    "whatsappNumber": "9987420808",
+    "address": "Near Link Road , mg road , sv road , 1 km from Goregaon railway station near PG 4-5 big mall , Mumbai",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702862/qzt6khoabjiiyntcgdds.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696702862/e8jkeigesdzdiiip7y6j.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPlWeAXOockCY"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:23:59.862Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.802067800000003,
+    "lng": 75.82572666931155
+    },
+    "markerPosition": {
+    "lat": 26.802067800000003,
+    "lng": 75.82572666931155
+    },
+    "address": "21, Kumbha Marg, Sanganer, Sector 11, Sitapura, Jaipur, Rajasthan 302033, India",
+    "city": "Jaipur Division",
+    "area": "Sitapura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6521a396ef298e6d057d42ac",
+    "title": "yogesh",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 40000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "40,000₹\nper month\n3bhk fully furnished\n\ndecent people only",
+    "state": "jaipur",
+    "phone": "9950770054",
+    "zipCode": "302033",
+    "whatsappNumber": "9950770055",
+    "address": "Mahima panash , pratap nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703334/yowtllgrzvgpjw4j9som.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703334/nquuvpcdohfcg6w16ol7.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703335/qk1crzdnwitepbtstwnk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703335/tbjn21nqfgux1bp8szgy.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703338/hiiaahemataiwcem73kw.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703345/zdkwnykr3967xhqptshg.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703348/xck6coaalth2dexteyps.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPraTsYgPVyDF"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:29:42.598Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.843951554028667,
+    "lng": 75.81753919999997
+    },
+    "markerPosition": {
+    "lat": 26.843951554028667,
+    "lng": 75.81753919999997
+    },
+    "address": "7-439, opp. Hotel Lalit, Sector 3, Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6521a4ceef298e6d057d42c5",
+    "title": "yogesh sharama",
+    "category": "flat",
+    "pricingType": "PRICE",
+    "price": 28000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "28,000₹\nper month\n3bhk villa\n\nfully furnished\n\n\nAddress : Jagat Pura\nAppt Size : 3bhk\nBed : 3\nBath : 3\nToilet : 3",
+    "state": "jaipur",
+    "phone": "9950770055",
+    "zipCode": "302017",
+    "whatsappNumber": "9950770055",
+    "address": "Kya ra villa Jagatpura , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703519/n25jh02yqr3ysmvqkxfu.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703520/t7zd8xvyhfgvtkckkwth.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703520/tf8tafmj0dkn66irt4bm.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703520/scd77epplqywx9alzb1s.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703521/tuedodmcpewn59bhwdwf.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703521/etxi7jpbnt2eqqa01as8.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703523/rswa0mdql7yfqyhv4jbl.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703524/yhrocpg9l2r5eogtwmii.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703524/rjxoodad4kocycsskejc.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696703524/bs89umlgao7plrcswpny.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fead017fdcc547f65abc8",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlPx4vgYxs0HxB"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T18:34:54.538Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.730839,
+    "lng": 77.053568
+    },
+    "markerPosition": {
+    "lat": 28.730839,
+    "lng": 77.053568
+    },
+    "address": "Sector 38, Rohini, Delhi, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "6521aebfef298e6d057d43c2",
+    "title": "engineers home",
+    "category": "house",
+    "pricingType": "PRICE",
+    "price": 7300,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "  ....",
+    "state": "delhi",
+    "phone": "9911320011",
+    "zipCode": "110086",
+    "whatsappNumber": "9911320011",
+    "address": "40, Begumpur Gaon Rd, Begampur Extension, Sector 38, Rohini, Delhi, 110086, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706176/u0qlrcf9odtbuzpqyucp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706176/rtth9ff9iowznyr68jt7.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706185/byerplu3nfzgfzmngu0n.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706186/rnsate4qir2gemuvldoa.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe17717fdcc547f65aaf1",
+    "startDate": "2023-10-07",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlQfqAyGTWgrFP"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-07T19:17:19.419Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "markerPosition": {
+    "lat": 26.8504593,
+    "lng": 75.76277019999999
+    },
+    "address": "Mansarovar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Mansarovar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6521b099ef298e6d057d43f6",
+    "title": "fully furnished single separate room for boys without food in boys pg.",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Fully Furnished Single Separate Room For Boys Without Food in Boys PG.\n\nRent Inclusive of Light/Electricity/Water/Cleaning/Internet Charges.\n\nAddress :- Kabir Marg, Vijay Path, Mansarovar, Jaipur 302020.",
+    "state": "jaipur",
+    "phone": "9928166222",
+    "zipCode": "302020",
+    "whatsappNumber": "9928166222",
+    "address": "104/149, Kabir Marg, Vijay Path, Mansarovar, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706672/bvdwpqooq36snhskqqkp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706671/lay0qz6owkwfdkbap2kz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706675/kszgwrryct0eldyqchof.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706676/uwvtajacoqpu8gbgh7qd.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706677/du5peyibgp5imsi5vvio.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706686/cmej9fg5axk5fywuszep.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706686/syam8x57cmd8nj9zjtn1.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706690/orq6p4otbwgpggm2jnuu.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696706690/fey6oyqddfuul1wyyhik.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "652050b517fdcc547f65ad84",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-07",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-07T19:25:13.544Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8176736,
+    "lng": 75.86171709999999
+    },
+    "markerPosition": {
+    "lat": 26.8176736,
+    "lng": 75.86171709999999
+    },
+    "address": "Jagatpura, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65223ec7ef298e6d057d4412",
+    "title": "gajendrasingh",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 16000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Shop\n\n12*24 sq feet\n\nNear CBI patak jagatpura\n\n…….",
+    "state": "jaipur",
+    "phone": "8619380338",
+    "zipCode": "303806",
+    "whatsappNumber": "8619380338",
+    "address": "CBI patak jagatpura Jaipur, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743093/cbtl8r3ondcidcpqlqbx.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743093/emkz5c9j6zqrsbjl3xvh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743093/e1uq4czgs3fjxxgn2yey.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe13e17fdcc547f65aaee",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-08",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-08T05:31:51.451Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 27.2979633,
+    "lng": 75.8156257
+    },
+    "markerPosition": {
+    "lat": 27.2979633,
+    "lng": 75.8156257
+    },
+    "address": "Jagatpura, Rajasthan 303806, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65223fd2ef298e6d057d442a",
+    "title": "gajendrasingh",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 16000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Basement\n\n12 *24 sq feet\n\nNear CBI patak jagatpura Jaipur",
+    "state": "jaipur",
+    "phone": "8619380338",
+    "zipCode": "303806",
+    "whatsappNumber": "8619380338",
+    "address": "Near CBI patak jagatpura, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743338/psyvkm1oigapz3qsi9d9.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743339/v4qgbpxbwhj0hsxstpi3.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe13e17fdcc547f65aaee",
+    "startDate": "2023-10-08",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlbDk3rXHYNLYa"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-08T05:36:18.238Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6522425def298e6d057d4440",
+    "title": "girls p.g",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,500₹ – 15,000₹\nper month\n4 times of meal\n\nAc rooms\n\nTabel chair\n\nWardrobe\n\nLaundry\n\nDaily room cleaning\n\n2 days in a week washroom cleaning",
+    "state": "jaipur",
+    "phone": "9001305849",
+    "zipCode": "302017",
+    "whatsappNumber": "9001305849",
+    "address": "B-16 girdhar marg, tea connect, malviya nagar, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743954/zhbibt2xtwzgwi8xo36v.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743954/zjdyr6i6e6k2t99vqymy.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743954/raucwwm6lpjhtvnfykb1.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743954/ts7bp9myyevne8vde5dt.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743955/pfjff730j73knwmpjrig.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696743955/sd9h1yvoyqy3fa1tegj1.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520400617fdcc547f65ac5f",
+    "startDate": "2023-10-08",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlbPCFSi8kXafT"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-08T05:47:09.390Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6522433cef298e6d057d4459",
+    "title": "girls p.g",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,500₹ – 15,000₹\nper month\n4 times of meal\n\nAc rooms\n\nTabel chair\n\nWardrobe\n\nLaundry\n\nDaily room cleaning\n\n2 days in a week washroom cleaning",
+    "state": "jaipur",
+    "phone": "9001305849",
+    "zipCode": "302017",
+    "whatsappNumber": "9001305849",
+    "address": "D-58 shakti nagar, kala colony malviya nagar, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744200/ciyiznzgjdmkzaij5x3c.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744200/wu1hwqwln6qe9x1qovtp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744200/mv67anesgktjd5o7o1gp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744200/ct0xfexq6k5wvoevhf8l.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744201/jsmdoxcfmnn6gous374d.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520400617fdcc547f65ac5f",
+    "startDate": "2023-10-08",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlbT8dVrQOdrxb"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-08T05:50:52.881Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "markerPosition": {
+    "lat": 26.8548662,
+    "lng": 75.8242966
+    },
+    "address": "Malviya Nagar, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Malviya Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652243f2ef298e6d057d4490",
+    "title": "girls p.g",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,500₹ – 15,000₹\nper month\n4 times of meal\n\nAc rooms\n\nTabel chair\n\nWardrobe\n\nLaundry\n\nDaily room cleaning\n\n2 days in a week washroom cleanin",
+    "state": "jaipur",
+    "phone": "9001305849",
+    "zipCode": "302017",
+    "whatsappNumber": "9001305849",
+    "address": "A661, Malviya nagar, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744392/u5fe5wpsja17y8pe1g0x.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744392/lgpf2w6ilbpafzfsdvpp.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744393/hsj44bu839dphoxt8gb2.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "6520400617fdcc547f65ac5f",
+    "startDate": "2023-10-08",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MlbWKqNuWugQfG"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-08T05:53:54.680Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 28.7047976,
+    "lng": 77.095297
+    },
+    "markerPosition": {
+    "lat": 28.7047976,
+    "lng": 77.095297
+    },
+    "address": "Sector 1, Rohini, Delhi, 110085, India",
+    "city": "Delhi Division",
+    "area": "Rohini",
+    "state": "Delhi"
+    },
+    "boost_available": 0,
+    "_id": "652244f0ef298e6d057d44b4",
+    "title": "girls pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 5000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Rpg residence\n5k double sharing\nFully furnished\nOnly girls pg",
+    "state": "delhi",
+    "phone": "7503162710",
+    "zipCode": "110085",
+    "whatsappNumber": "7503162710",
+    "address": "D-263, Sector 1, Rohini, New Delhi, Delhi 110085, Delhi",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744665/fzweerx5lsmkc4ykzoqo.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1696744667/xtbj5ksru0ffpqhclf3e.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fe0b017fdcc547f65aad9",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-08",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-08T05:58:08.176Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.802511,
+    "lng": 75.8241135
+    },
+    "markerPosition": {
+    "lat": 26.802511,
+    "lng": 75.8241135
+    },
+    "address": "Sector 8, Pratap Nagar, Jaipur, Rajasthan 303902, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652840f8ef298e6d057d47a8",
+    "title": "bhanwari garg",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 20000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "20,000₹\nper month\n300sq feet",
+    "state": "jaipur",
+    "phone": "9829033638",
+    "zipCode": "302033",
+    "whatsappNumber": "9829033638",
+    "address": "sector 8 Pratap Nagar Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697136858/a9gupwkc7qdqaipyke3g.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697136859/lssbdmijeeytfajaaiiw.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "otherCategory": "",
+    "paymentId": [
+    "BY TRIAL MODE"
+    ],
+    "istrial": false,
+    "startDate": "2023-10-12",
+    "expiryDate": "2025-01-05",
+    "createdAt": "2023-10-12T18:54:48.223Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "markerPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "address": "Pratap Nagar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6528426fef298e6d057d47be",
+    "title": "kamla sharama",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 20000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "On main road Pratap Nagar\n\nsize 22*40",
+    "state": "jaipur",
+    "phone": "9166633888",
+    "zipCode": "302033",
+    "whatsappNumber": "9166633888",
+    "address": "Pratap Nagar Near D-mart , Tonk road , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137094/qhnxogug1nogvrxzkv4y.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137095/aikyskpj1d9qpt0b5azu.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnP4JNRlDmEirA"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:01:03.788Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "markerPosition": {
+    "lat": 26.8036533,
+    "lng": 75.8084579
+    },
+    "address": "Pratap Nagar, Jaipur, Rajasthan, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65284352ef298e6d057d47d2",
+    "title": "kamla second shop",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 20000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "On main tonk road\n\n22*40\n\nsecond shop",
+    "state": "jaipur",
+    "phone": "9166633888",
+    "zipCode": "302033",
+    "whatsappNumber": "9166633888",
+    "address": "Tonk road , Pratap Nagar , near D-mart , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137418/fuv9orduyv1hz8gmgyjq.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137418/jwukhrafmkyqkipf4t3p.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnP8JDaJrD1ujF"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:04:50.460Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.802511,
+    "lng": 75.8241135
+    },
+    "markerPosition": {
+    "lat": 26.802511,
+    "lng": 75.8241135
+    },
+    "address": "Sector 8, Pratap Nagar, Jaipur, Rajasthan 303902, India",
+    "city": "Jaipur Division",
+    "area": "Pratap Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652843fcef298e6d057d47eb",
+    "title": "vikash saini",
+    "category": "shop",
+    "pricingType": "PRICE",
+    "price": 6500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Shop for rent",
+    "state": "jaipur",
+    "phone": "8946970390",
+    "zipCode": "302033",
+    "whatsappNumber": "8946970390",
+    "address": "85,c6, sector 8 Pratap Nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137544/vroqpo9r6btf6kohqtls.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnPBIbeq4l27kx"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:07:40.594Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8435132,
+    "lng": 75.8245456
+    },
+    "markerPosition": {
+    "lat": 26.8435132,
+    "lng": 75.8245456
+    },
+    "address": "Model Town, Jagatpura, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65284514ef298e6d057d47ff",
+    "title": "mathoshree pg boys",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 7500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Boys Pg\n\nAc\n\nFridge\n\nParking",
+    "state": "jaipur",
+    "phone": "9079281031",
+    "zipCode": "302017",
+    "whatsappNumber": "9079281031",
+    "address": "Model Town , Malviya Nagar , Jagatpura , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137897/cx3okbnpbtzsfb5nhxgh.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137898/c6ebwx0yxhrnmypeltcn.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697137898/ua2lcbifp9hjwm7vxmve.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnPGEmdG8NyUTJ"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:12:20.791Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8435132,
+    "lng": 75.8245456
+    },
+    "markerPosition": {
+    "lat": 26.8435132,
+    "lng": 75.8245456
+    },
+    "address": "Model Town, Jagatpura, Jaipur, Rajasthan 302017, India",
+    "city": "Jaipur Division",
+    "area": "Jagatpura",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "65284621ef298e6d057d4813",
+    "title": "ridhi ma pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 4000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "4,000₹ – 6,000₹\nper month\nGirls\n\nelectricity charges\n\n4000 advance\n\nno non veg\n\nno boys\n\nno visitors allowed",
+    "state": "jaipur",
+    "phone": "9829124498",
+    "zipCode": "302017",
+    "whatsappNumber": "9829124498",
+    "address": "Vinoba Vihar , Model Town , Jagatpura , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138135/fu7xujsrc6cx2ccit2fd.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138135/oqcw5jqczxt2kpmzzi1n.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138135/zd2wlvtgbvrjxaxib0dz.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138135/resrhub0rfuowwfnj7ik.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnPKxkkfRZWBel"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:16:49.884Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.9621084,
+    "lng": 75.7816265
+    },
+    "markerPosition": {
+    "lat": 26.9621084,
+    "lng": 75.7816265
+    },
+    "address": "Vidyadhar Nagar, Jaipur, Rajasthan 302032, India",
+    "city": "Jaipur Division",
+    "area": "Vidyadhar Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "6528471cef298e6d057d482c",
+    "title": "thar group boys pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 8000,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "8,000₹\nper month\ndouble seater room\n\nWifi\n\nfood included",
+    "state": "jaipur",
+    "phone": "9828390169",
+    "zipCode": "302039",
+    "whatsappNumber": "9828390169",
+    "address": "a-1, ls Nagar, near Mpgs school, Vidhyadhar Nagar, Jaipur, Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138406/s2ms5rl2exlxeowst9vb.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnPPNqx0hGwCCa"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:21:00.929Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    },
+    {
+    "locationState": {
+    "mapPosition": {
+    "lat": 26.8967863,
+    "lng": 75.7427532
+    },
+    "markerPosition": {
+    "lat": 26.8967863,
+    "lng": 75.7427532
+    },
+    "address": "Marudhar Nagar, Jaipur, Rajasthan 302021, India",
+    "city": "Jaipur Division",
+    "area": "Marudhar Nagar",
+    "state": "Rajasthan"
+    },
+    "boost_available": 0,
+    "_id": "652847f0ef298e6d057d484f",
+    "title": "raghunandan pg",
+    "category": "pg",
+    "pricingType": "PRICE",
+    "price": 7500,
+    "maxPrice": "",
+    "priceUnit": "month",
+    "description": "Boys pg\n\nfood included\n\nWiFi\n1000extra for Ac room",
+    "state": "jaipur",
+    "phone": "9414889630",
+    "zipCode": "302021",
+    "whatsappNumber": "9414889630",
+    "address": "64, Marudhar Nagar , Jaipur",
+    "images": [
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138619/n5zjksgoa4fqh7tbwc9f.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138619/hrgvyyhfpkvly3920tgk.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138620/vuppvsmagmijyzwmb018.jpg",
+    "https://res.cloudinary.com/dvc7ivbew/image/upload/v1697138622/nataltxnfp7a9ql5xts7.jpg"
+    ],
+    "youtubeVideoLink": "",
+    "user": "651fcbe117fdcc547f65aa5b",
+    "startDate": "2023-10-12",
+    "otherCategory": "",
+    "expiryDate": "2025-01-05",
+    "paymentId": [
+    "pay_MnPT73lbuJpNDA"
+    ],
+    "istrial": false,
+    "createdAt": "2023-10-12T19:24:32.173Z",
+    "updatedAt": "2024-01-08T11:47:37.777Z",
+    "__v": 0,
+    "is_booked": 0,
+    "boost": 0
+    }
+    ]
