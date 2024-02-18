@@ -4,7 +4,7 @@ Unibites is a web application that helps users find PGs and hostels in different
 user-friendly interface to search and book accommodations based on location, price, and amenities. Built using Node.js, 
 Express JS and MongoDB, Unibites is easy to deploy and customize.
 
-Live at : [https://unibites.live/](https://unibites.live//)
+Live at : [https://unibites.live/](https://unibites.live/)
 
 
 ## Usage:
