@@ -1,5 +1,5 @@
 {
-  "name": "pg-finder-v2",
+  "name": "unibites",
   "version": "1.0.0",
   "description": "A PG Finding application built using Node & Express JS.",
   "main": "app.js",
@@ -9,7 +9,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "Aryan Upadhyay",
+  "author": "Naitik Sharma",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.4.0",
