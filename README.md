@@ -53,5 +53,6 @@ MIT License - Copyright (c) 2024 Team Unibites
 
 ## Developers
 Kruti Dewda
+Naitik Sharma
 Deepanshu Pariyani
 Aditi Rani
