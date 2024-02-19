@@ -70,17 +70,17 @@ const providerSchema = joi.object({
 		'date.max' : 'Age greater than maximum age.',
 		'date.empty' : 'DOB is required'
 	}),
-	gst: joi.string().trim().pattern(new RegExp('^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$')).required().messages({
-		'string.empty': 'GST Number is required',
+	gst: joi.string().trim().pattern(new RegExp('^[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}$')).messages({
+		'string.empty': 'GST is required!',
 		'string.pattern.base': 'Improper GST Format'
 	}),
 	addBuilding: joi.string().trim().required().min(5).max(50).messages({
 		'string.empty': 'Building Name can not be empty.',
 	}),
-	addL1: joi.string().trim().required().min(10).max(80).messages({
+	addL1: joi.string().trim().required().min(5).max(80).messages({
 		'string.empty': 'Address Line 1 is required.',
 	}),
-	landmark: joi.string().trim().required().min(10).max(80).messages({
+	landmark: joi.string().trim().required().min(4).max(80).messages({
 		'string.empty': 'Landmark is required',
 	}),
 	state: joi.string().trim().required().custom((state, helper) => {
