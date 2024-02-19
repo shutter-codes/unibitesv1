@@ -2,7 +2,7 @@
 <% layout('layout/boilerplate.ejs') -%>
 
 <section>
-    <h1 class="text-center my-4">Rider Dashboard</h1>
+    <h1 class="text-center my-4">Tenants Dashboard</h1>
 
     <div class="row justify-content-evenly mt-5 w-100 d-flex">
         <div class="mb-4 col-lg-3 text-md-left text-center">
@@ -114,7 +114,7 @@
                                 <p class="card-title pb-0 mb-0 text-muted small">Booking ID : <%= book.id %></p>
                                 <div class="d-flex flex-column flex-md-row align-items-center gap-3">
                                     <h5 class="card-body m-0 p-0">Name: <%= book.property.name %></h5>
-                                    <a href="/property/<%= book.property.id %>" target="_blank" class="btn btn-primary">See Property</a>
+                                    <a href="/property/<%= book.property.id %>" target="_blank" class="btn btn-primary">View Property</a>
                                     <button class="btn disabled"><%= book.comment ? book.comment : 'No Comment Yet!' %></button>
                                 </div>
                                 <p class="text-muted text-center mt-2">
@@ -149,7 +149,7 @@
                                 <p class="card-title pb-0 mb-0 text-muted small">Property ID : <%= prop.id %></p>
                                 <div class="d-flex align-items-center gap-3">
                                     <h5 class="card-body m-0 p-0">Name: <%= prop.name %> </h5>
-                                    <a href="/property/<%= prop.id %>" target="_blank" class="btn btn-primary">See Property</a>
+                                    <a href="/property/<%= prop.id %>" target="_blank" class="btn btn-primary">View Property</a>
                                 </div>
                             </div>
                         </div>
