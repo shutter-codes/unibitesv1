@@ -58,17 +58,18 @@
                         </div>
                         <input id="dob" name="dob" type="date" min="1980-01-01"
                                max="<%= new Date(new Date().getFullYear() - 18, new Date().getMonth(), new Date().getDate()).toLocaleDateString('fr-ca') %>"
-                               class="form-control" required="required" value="<%= userInfo.dob.toLocaleDateString('fr-ca') %>">
+                               class="form-control" required="required" value="<%= userInfo.dob.toLocaleDateString('fr-ca') %>" readonly>
                     </div>
                 </div>
             </div>
             <div class="form-group row">
                 <label for="gst" class="col-4 col-form-label">GST</label>
                 <div class="col-8">
-                    <input id="gst" name="gst" placeholder="GST Number" type="text" class="form-control" aria-describedby="gstHelpBlock" pattern="[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}" value="<%= userInfo.gst %>" required>
+                    <input id="gst" name="gst" placeholder="GST Number" type="text" class="form-control" aria-describedby="gstHelpBlock" pattern="[0-9]{2}[A-Z]{5}[0-9]{4}[A-Z]{1}[1-9A-Z]{1}Z[0-9A-Z]{1}" value="<%= userInfo.gst %>" readonly>
                     <span id="gstHelpBlock" class="form-text text-muted">Provide correct GST number for validation.</span>
                 </div>
             </div>
+            
 
             <br>
             <h4>ADDRESS DETAILS</h4>
