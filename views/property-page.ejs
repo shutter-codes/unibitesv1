@@ -1,16 +1,18 @@
+<!-- Completed by Naitik Sharma -->
 <!-- SINGLE PROPERTY PAGE -->
+
 <% layout('layout/boilerplate.ejs') -%>
 
 <section>
     <div class="offset-1 d-inline-block d-md-flex">
         <div class="col-md-4 col-11 card border-0">
-            <img class="card-img rounded-4 border shadow-lg" src="<%= property.images[0] ? property.images[0] : '/images/house-fallback.svg' %>" style="object-fit: cover; max-width: 100%; aspect-ratio: 1;" alt="">
+            <img class="card-img rounded-2 border shadow-lg" src="<%= property.images[0] ? property.images[0] : '/images/house-fallback.png' %>" style="object-fit: cover; max-width: 100%; aspect-ratio: 1;" alt="Property_Image" >
         </div>
         <div class="col-md-8 col-11 d-flex flex-column p-0 m-0 justify-content-between">
             <div class="d-flex flex-column p-0 m-0 col-11" style="flex: unset">
-                <h1 class="fw-light" style="font-size: clamp(3rem, 10vw, 5rem)"><%= property.name %></h1>
+                <h1 class="fw-light" style="font-size: clamp(3rem, 8vw, 4rem)"><%= property.name %></h1>
                 <h3 class="fw-normal"><%= property.address.addL1 %></h3>
-                <h3 class="fw-normal fst-italic text-muted"><%= property.tagline %></h3>
+                <h3 class="fw-normal  text-muted"><%= property.tagline %></h3>
             </div>
             <div id="gallery" class="d-flex flex-row column-gap-2 col-11 p-0 justify-content-md-start justify-content-center" style="flex: unset">
                 <% for (let i=0; i < property.images.length; i ++) { %>
@@ -30,9 +32,10 @@
                     <i class="<%= userDet.likes.includes(property.id) ? 'fa-solid' : 'fa-regular' %> fa-heart"
                        style="color: red"></i>
                 </button>
-            <% } else if (user.role === 'provider' && userDet.id === property.owner.id) { %>
-                <a href="" role="button" class="btn btn-outline-secondary btn-lg">Edit Property</a>
+            <% } else if (user && user.role === 'provider' && userDet.id === property.owner.id) { %>
+                <a href="/property/<%= property.id %>/edit" role="button" class="btn btn-outline-secondary btn-lg">Edit Property</a>
             <% } %>
+            
         <% } %>
     </div>
 
@@ -78,12 +81,12 @@
 
     <div class="offset-1 px-3 mt-4 d-flex flex-column row-gap-2">
     <div class="row col-11 px-0 mt-5 row-gap-3">
-            <h2 class="display-4">About the Property</h2> <br>
+            <h2 class="display-6">About the Property</h2> <br>
             <div class="card singleAmenity col-12 p-2">
                 <h3 class="fw-light ms-3">Food Related Rules</h3>
                 <div class="d-flex flex-wrap">
                     <% for (let det of property.food) { %>
-                        <div class="card m-3 border-0" style="width: 150px">
+                        <div class="card m-6 border-0" style="width: 150px">
                             <img src="/<%= det.path %>.svg" alt="" class="card-img object-fit-cover mx-auto" style="aspect-ratio: 1; width: min(75px, 100%);">
                             <div class="card-body text-center">
                                 <div class="card-text text-muted small text-capitalize"><%= det.name && det.name.replace('-', ' ') %></div>
@@ -97,7 +100,7 @@
                 <h3 class="fw-light ms-3">Amenities</h3>
                 <div class="d-flex flex-wrap">
                     <% for (let det of property.amenities) { %>
-                        <div class="card m-3 border-0" style="width: 150px">
+                        <div class="card m-6 border-0" style="width: 150px">
                             <img src="/<%= det.path %>.svg" alt="" class="card-img object-fit-cover mx-auto" style="aspect-ratio: 1; width: 75px;">
                             <div class="card-body text-center">
                                 <p class="card-text text-capitalize"><%= det.name && det.name.replace('-', ' ') %></p>
@@ -110,7 +113,7 @@
                 <h3 class="fw-light ms-3">House Rules</h3>
                 <div class="d-flex flex-wrap">
                     <% for (let det of property.rules) { %>
-                        <div class="card m-3 border-0" style="width: 150px">
+                        <div class="card m-6 border-0" style="width: 150px">
                             <img src="/<%= det.path %>.svg" alt="" class="card-img object-fit-cover mx-auto mb-0" style="aspect-ratio: 1; width: 75px;">
                             <div class="card-body text-center mt-2 pt-0">
                                 <div class="card-text text-capitalize mt-0"><%= det.name && det.name.replace('\-.\g', ' ') %></div>
@@ -144,7 +147,7 @@
     </div>
 
     <div class="offset-1 card col-10 border-0 ps-0" style="margin-top: 1rem">
-        <div class="card-header display-3">Details</div>
+        <div class="card-header display-6">Details</div>
         <div class="card-body">
             <div class="row">
                 <div class="col-sm-3">
@@ -229,7 +232,7 @@
 
 
     <div class="offset-1 card col-10 border-0 ps-0" style="margin-top: 1rem">
-        <div class="card-header display-3">Reviews</div>
+        <div class="card-header display-6">Reviews</div>
         <% if (user && user.role === 'rider') { %>
         <div class="card-body bg-warning-subtle bg-opacity-50 mt-3">
             <form action="" method="post" id="review-form" class="validation-required" novalidate>
