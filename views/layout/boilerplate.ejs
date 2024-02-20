@@ -20,10 +20,37 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" contsent="#ffffff">
     <link href="../../public/css/main.css" rel="stylesheet">
+
+    <style>
+        /* CSS for desktop view */
+        @media (min-width: 768px) {
+            .navbar .user-icon {
+                display: none !important; /* Hide the user icon in the navbar for desktop view */
+            }
+    
+            .navbar .login-btn {
+                width: auto; /* Set width to auto */
+                margin-right: 10px; /* Add margin to the right */
+            }
+        }
+    
+        /* CSS for mobile view */
+        @media (max-width: 800px) {
+            .navbar-toggler .user-icon {
+                display: none !important; /* Show the user icon inside the collapsible icon for mobile view */
+            }
+            .navbar .login-btn {
+                margin: 2rem auto; /* Center the button with some margin */
+            }
+        }
+    </style>
+    
 </head>
 <body style="scroll-behavior: smooth">
     <section id="flash-holder" class="position-fixed col-10 col-md-3 text-white" style="top: 10%; right: 5%; z-index: 9999"></section>
     <script src="/js/include-first.js"></script>
+    
+    <!-- NAVBAR -->
 
     <header class="mb-2">
         <nav class="navbar navbar-expand-lg navbar-light d-flex bg-light" data-aos="fade-down">
@@ -36,7 +63,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-                    <ul class="navbar-nav text-center fs-6" style="gap: 4rem;">
+                    <ul class="navbar-nav text-center fs-6" style="gap: 2rem;">
                         <li class="nav-item">
                             <a class="nav-link text-uppercase font-weight-bold" href="/property/search" style="color: orange;">Homes</a>
                         </li>
@@ -113,73 +140,20 @@
                         </div>
                     <% } %>
                     </div>
-
-            
-        </div>
+                </div>
                
             </div>
-
-                <div class="collapse navbar-collapse d-flex align-items-center justify-content-end" style="gap: 2rem;" id="navbarNav">
-                    <!-- <ul class="navbar-nav d-flex align-items-center">
-
-                            <% if (user) { %>
-                                <li class="nav-item ">
-                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">Logout</a>
-                                </li>
-                            <% } else { %>
-                                <li class="nav-item ">
-                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">
-                                        Login
-                                        <style>
-                                            .btn:hover {
-                                                color: orange !important;
-                                                background-color: white !important;
-                                                border-color: orange !important;
-                                            }
-                                        </style>
-                                    
-                                    </a>
-                                </li>
-                            <% } %>
-                        </ul> -->
-                   
-
-            <!-- <section class="">
-                <div class="row text-center d-flex pt-2">
-                    <div class="col-md-3">
-                        <h6 class="text-uppercase font-weight-bold">
-                            <a href="/#about" class="text-black">About us</a>
-                        </h6>
-                    </div>
-                    <div class="col-md-2">
-                        <h6 class="text-uppercase font-weight-bold">
-                            <a href="/property/search" class="text-black">Homes</a>
-                        </h6>
-                    </div>
-                    <div class="col-md-2">
-                        <h6 class="text-uppercase font-weight-bold">
-                            <a href="/#team" class="text-black">Team</a>
-                        </h6>
-                    </div>
-                    <div class="col-md-2">
-                        <h6 class="text-uppercase font-weight-bold">
-                            <a href="/#help" class="text-black">Help</a>
-                        </h6>
-                    </div>
-                    <div class="col-md-2">
-                        <h6 class="text-uppercase font-weight-bold">
-                            <a href="/#why-us" class="text-black">Why us!</a>
-                        </h6>
-                    </div>
-                </div>
-            </section> -->
 
         </nav>
     </header>
 
+    <!-- MAIN BODY -->
+
     <section id="main-body" style="min-height: 100vh;">
         <%- body -%>
     </section>
+
+    <!-- FOOTER -->
 
     <footer data-aos="fade-up" class="" style="min-width: -webkit-fill-available;">
         <div class="">
