@@ -59,11 +59,21 @@
 
                             <% if (user) { %>
                                 <li class="nav-item ">
-                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2">Logout</a>
+                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">Logout</a>
                                 </li>
                             <% } else { %>
                                 <li class="nav-item ">
-                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2">Login</a>
+                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">
+                                        Login
+                                        <style>
+                                            .btn:hover {
+                                                color: orange !important;
+                                                background-color: white !important;
+                                                border-color: orange !important;
+                                            }
+                                        </style>
+                                    
+                                    </a>
                                 </li>
                             <% } %>
                         </ul>
