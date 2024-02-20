@@ -1,14 +1,16 @@
+<!-- Completed by Naitik Sharma -->
+
 <!-- PROVIDER REGISTRATION FORM -->
 <% layout('layout/boilerplate.ejs') -%>
 
 <section>
     <h1 class="text-center my-4">Provider Details Form</h1>
-    <hr style="all: revert; height: 1px; background-color: black">
+   
 
     <div class="container">
         <form id="form" method="post" action="/provider/<%= userRoleID %>?_method=patch" class="card col-lg-10 py-5 mx-auto px-2 border-0 validation-required" novalidate>
             <div class="form-group row">
-                <label for="name" class="col-4 col-form-label">Name</label>
+                <label for="name" class="col-4 col-form-label ">Name</label>
                 <div class="col-8">
                     <div class="input-group">
                         <div class="input-group-prepend">
@@ -131,10 +133,11 @@
             </div>
 
             <div class="form-group row">
-                <div class="offset-4 col-8">
-                    <button name="submit" type="submit" class="btn btn-primary">Submit</button>
+                <div class="offset-4 col-8 text-center">
+                    <button name="submit" type="submit" class="btn btn-warning btn-md">Submit</button>
                 </div>
             </div>
+            
         </form>
     </div>
 </section>
