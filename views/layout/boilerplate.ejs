@@ -6,10 +6,12 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>UniBites</title>
+    <link rel="stylesheet" href="/css/boilerplate.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/starability-growRotate.min.css">
+    <link rel="stylesheet" href="/css/custom.scss">
     <link rel="stylesheet" href="/css/photoswipe.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/site-data/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/site-data/favicon-32x32.png">
@@ -19,7 +21,6 @@
     <link href="../src/output.css" rel="stylesheet">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" contsent="#ffffff">
-    <link href="../../public/css/main.css" rel="stylesheet">
 </head>
 <body style="scroll-behavior: smooth">
     <section id="flash-holder" class="position-fixed col-10 col-md-3 text-white" style="top: 10%; right: 5%; z-index: 9999"></section>
@@ -30,50 +31,54 @@
             
             <div class="container-fluid d-flex justify-content-between align-items-center">
                 <a class="navbar-brand" href="/">
-                    <img src="/images/party.png" alt="pg-finder-logo" width="60px">
+                   <h1 style="color: #E18F48; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">Unibites</h1>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
-                    <ul class="navbar-nav text-center fs-6" style="gap: 4rem;">
+                    <ul class="navbar-nav text-center fs-5" style="gap: 4rem;">
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/property/search" style="color: orange;">Homes</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/property/search" style="color: #E18F48;">Homes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/#about" style="color:black;"   onmouseover="this.style.color='orange'" onmouseout="this.style.color='black'">About us</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/#about" style="color:black;"   onmouseover="this.style.color='#E18F48'" onmouseout="this.style.color='black'">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/#team" style="color:black;"   onmouseover="this.style.color='orange'" onmouseout="this.style.color='black'">Team</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/#team" style="color:black;"   onmouseover="this.style.color='#E18F48'" onmouseout="this.style.color='black'">Team</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/#help" style="color:black;" onmouseover="this.style.color='orange'" onmouseout="this.style.color='black'">Help</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/#help" style="color:black;" onmouseover="this.style.color='#E18F48'" onmouseout="this.style.color='black'">contact US</a>
                         </li>
                     </ul>
                 </div>
                
             </div>
 
-                <div class="collapse navbar-collapse d-flex align-items-center justify-content-end" style="gap: 2rem;" id="navbarNav">
-                    <ul class="navbar-nav d-flex align-items-center">
+            <div class="collapse navbar-collapse d-flex align-items-center justify-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <!-- <li class="nav-item" style="width: fit-content">
+                        <a class="nav-link" href="/property/search">Search Homes</a>
+                    </li> -->
+
+                    <% if (user && user.role !== 'admin') { %>
+                        <li class="nav-item">
+                            <a class="nav-link" href="<%= `/${user.role}/dashboard`%>">Dashboard</a>
+                        </li>
+                     
+                        <!-- <li class="nav-item">
+                            <a class="nav-link" href="<%= `/${user.role}/${userRoleID}/edit`%>">Edit Profile</a>
+                       
+                        </li> -->
+                    <% } %>
 
                             <% if (user) { %>
                                 <li class="nav-item ">
-                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">Logout</a>
+                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2">Logout</a>
                                 </li>
                             <% } else { %>
                                 <li class="nav-item ">
-                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">
-                                        Login
-                                        <style>
-                                            .btn:hover {
-                                                color: orange !important;
-                                                background-color: white !important;
-                                                border-color: orange !important;
-                                            }
-                                        </style>
-                                    
-                                    </a>
+                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2">Login</a>
                                 </li>
                             <% } %>
                         </ul>
@@ -133,7 +138,7 @@
 
     <footer data-aos="fade-up" class="" style="min-width: -webkit-fill-available;">
         <div class="">
-            <footer class="text-center text-dark" style="background-color : orange">
+            <footer class="text-center text-dark" style="background-color : #E18F48">
                 <div class="container">
                     <section class="">
                         <div class="row text-center d-flex justify-content-center pt-5">
@@ -154,7 +159,7 @@
                             </div>
                             <div class="col-md-2">
                                 <h6 class="text-uppercase font-weight-bold">
-                                    <a href="/#help" class="text-black">Help</a>
+                                    <a href="/#help" class="text-black">Contact US</a>
                                 </h6>
                             </div>
                             <div class="col-md-2">
@@ -184,7 +189,7 @@
                 </div>
                 <div
                         class="text-center p-3"
-                        style="background-color: rgba(0, 0, 0, 0.2)">
+                        style="background-color: black; color: #E18F48;">
                     © 2024 Copyright: Unibites
                 </div>
             </footer>
