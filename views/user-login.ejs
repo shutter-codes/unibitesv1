@@ -8,18 +8,18 @@
     }
 </style> -->
 
-<section id="section-holder" style="min-height: 100vh; background-color: rgb(255, 235, 199);"" class="d-grid row-gap-2">
+<section id="section-holder" style="min-height: 100vh;" class="d-grid row-gap-2">
     <div class="d-flex col-11 col-md-6 mx-auto my-auto text-center">
-        <h1 class="display-5 w-100" style="color: hsl(38, 94%, 43%);">Login Page
-        </h1>
+        <h1 class="display-5 w-100" style="color: black; font-weight: 700;">Login <span style="color: #E18F48; font-weight:700;">Page</span> </h1>
+        
     </div>
 
-    <form method="post" id="form" class="col-lg-5 col-md-8 col-10 card pt-3 validation-required align-self-center mx-auto" style="bottom: 30%; border: 1px solid hsl(38, 94%, 43%); box-shadow: 5px 5px 5px hsl(38, 94%, 43%);" novalidate>
+    <form method="post" id="form" class="col-lg-5 col-md-8 col-10 card pt-3 validation-required align-self-center mx-auto" style="bottom: 30%; border: 1px solid hsl(38, 94%, 43%);" novalidate>
         <% if (attempt && attempt === 'failed') { %>
             <p class="bg-danger text-white text-center h4 fw-light py-2">Invalid Email ID or Password!</p>
         <% } %>
         <div class="form-group row">
-            <label for="email" class="col-4 col-form-label">Email</label>
+            <label for="email" class="col-4 col-form-label" style="font-weight: 500;">Email</label>
             <div class="col-8">
                 <div class="input-group">
                     <div class="input-group-prepend">
@@ -32,7 +32,7 @@
             </div>
         </div>
         <div class="form-group row">
-            <label for="pass" class="col-4 col-form-label">Password</label>
+            <label for="pass" class="col-4 col-form-label" style="font-weight: 500;">Password</label>
             <div class="col-8">
                 <div class="input-group">
                     <input id="pass" name="pass" placeholder="Enter Password" type="password" required="required" class="form-control" pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,12}$" style="border: 1px solid hsl(38, 94%, 43%)">
@@ -42,7 +42,6 @@
                         </div>
                     </div>
                 </div>
-                <p class="form-label text-muted small">Minimum length 8 characters, 1 Special Character, 1 Capital and 1 Number necessary.</p>
             </div>
         </div>
         <div class="form-group">

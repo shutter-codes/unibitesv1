@@ -38,16 +38,16 @@
                 <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul class="navbar-nav text-center fs-6" style="gap: 4rem;">
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/property/search" style="color: orange;">Homes</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/property/search" style="color: #E18F48;">Homes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/#about" style="color:black;"   onmouseover="this.style.color='orange'" onmouseout="this.style.color='black'">About us</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/#about" style="color:black;"   onmouseover="this.style.color='#E18F48'" onmouseout="this.style.color='black'">About us</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/#team" style="color:black;"   onmouseover="this.style.color='orange'" onmouseout="this.style.color='black'">Team</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/#team" style="color:black;"   onmouseover="this.style.color='#E18F48'" onmouseout="this.style.color='black'">Team</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-uppercase font-weight-bold" href="/#help" style="color:black;" onmouseover="this.style.color='orange'" onmouseout="this.style.color='black'">Help</a>
+                            <a class="nav-link text-uppercase font-weight-bold" href="/#help" style="color:black;" onmouseover="this.style.color='#E18F48'" onmouseout="this.style.color='black'">Help</a>
                         </li>
                     </ul>
 
@@ -56,46 +56,46 @@
                             <li class="nav-item">
                                 <a role="button" href="/auth/logout" class="login-btn btn btn-outline-primary nav-link text-black p-2 mx-5">
                                     Logout
-
+                                    <!-- Styles for the logout button -->
                                     <style>
-                                        .login-btn{
-                                            border-color: orange;
-                                            color: orange;
+                                        .login-btn {
+                                            border-color: #E18F48;
+                                            color: #E18F48;
                                         }
+                    
                                         .login-btn:hover {
                                             color: white !important;
-                                            background-color: orange !important;
-                                            border-color: orange !important;
+                                            background-color: #E18F48 !important;
+                                            border-color: #E18F48 !important;
                                         }
                                     </style>
-                                
-                                
                                 </a>
                             </li>
                         </ul>
-                    <% } else { %>
+                    <% }
+                     else { %>
                         <ul class="navbar-nav">
                             <li class="nav-item">
                                 <a role="button" href="/auth/login" class="login-btn btn btn-outline-primary nav-link text-black p-2 mx-4">
                                     Login
-
+                                    <!-- Styles for the login button -->
                                     <style>
-                                        .login-btn{
-                                            border-color: orange;
-                                            color: orange;
+                                        .login-btn {
+                                            border-color: #E18F48;
+                                            color: #E18F48;
                                         }
+                    
                                         .login-btn:hover {
                                             color: white !important;
-                                            background-color: orange !important;
-                                            border-color: orange !important;
+                                            background-color: #E18F48 !important;
+                                            border-color: #E18F48 !important;
                                         }
                                     </style>
-                                
                                 </a>
                             </li>
                         </ul>
                     <% } %>
-
+                    
                     </div>
                     <% if (user && user.role !== 'admin') { %>
                         <div class="">
@@ -124,17 +124,17 @@
 
                             <% if (user) { %>
                                 <li class="nav-item ">
-                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">Logout</a>
+                                    <a role="button" href="/auth/logout" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: #E18F48;">Logout</a>
                                 </li>
                             <% } else { %>
                                 <li class="nav-item ">
-                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: orange;">
+                                    <a role="button" href="/auth/login" class="btn btn-outline-primary nav-link text-black p-2 mx-2" style="border-color: #E18F48;">
                                         Login
                                         <style>
                                             .btn:hover {
-                                                color: orange !important;
+                                                color: #E18F48 !important;
                                                 background-color: white !important;
-                                                border-color: orange !important;
+                                                border-color: #E18F48 !important;
                                             }
                                         </style>
                                     
