@@ -1,69 +1,307 @@
 <!-- USER LOGIN -->
 <% layout('layout/boilerplate.ejs') -%>
+    <style>
+        form {
+            width: 450px;
+            min-height: 500px;
+            height: auto;
+            border-radius: 5px;
+            margin: 2% auto;
+            box-shadow: 0 9px 50px hsla(20, 67%, 75%, 0.31);
+            padding: 2%;
+            background-image: linear-gradient(-225deg, #e18f48 50%, black 50%);
+        }
 
-<!-- <style>
-    #section-holder {
-        background: url("/images/city.svg") no-repeat center center fixed;
-        background-size: cover;
-    }
-</style> -->
+        /* form Container */
+        form .con {
+            display: -webkit-flex;
+            display: flex;
 
-<section id="section-holder" style="min-height: 100vh;" class="d-grid row-gap-2">
-    <div class="d-flex col-11 col-md-6 mx-auto my-auto text-center">
-        <h1 class="display-5 w-100" style="color: black; font-weight: 700;">Login <span style="color: #E18F48; font-weight:700;">Page</span> </h1>
+            -webkit-justify-content: space-around;
+            justify-content: space-around;
+
+            -webkit-flex-wrap: wrap;
+            flex-wrap: wrap;
+
+            margin: 0 auto;
+        }
+
+        /* the header form form */
+        header {
+            margin: 2% auto 10% auto;
+            text-align: center;
+        }
+
+        /* Login title form form */
+        header h2 {
+            font-size: 250%;
+            font-family: 'Playfair Display', serif;
+            color: #3e403f;
+        }
+
+        /*  A welcome message or an explanation of the login form */
+        header p {
+            letter-spacing: 0.05em;
+        }
+
+
+
+        /* //////////////////////////////////////////// */
+        /* //////////////////////////////////////////// */
+
+
+        .input-item {
+            background: #fff;
+            color: #333;
+            padding: 14.5px 0px 15px 9px;
+            border-radius: 5px 0px 0px 5px;
+        }
+
+
+
+        /* Show/hide password Font Icon */
+        #eye {
+            background: #fff;
+            color: #333;
+
+            margin: 5.9px 0 0 0;
+            margin-left: -20px;
+            padding: 15px 9px 19px 0px;
+            border-radius: 0px 5px 5px 0px;
+
+            float: right;
+            position: relative;
+            right: 1%;
+            top: -.2%;
+            z-index: 5;
+
+            cursor: pointer;
+        }
+
+        /* inputs form  */
+        input[class="form-input"] {
+            width: 240px;
+            height: 50px;
+
+            margin-top: 2%;
+            padding: 15px;
+
+            font-size: 16px;
+            font-family: 'Abel', sans-serif;
+            color: #5E6472;
+
+            outline: none;
+            border: none;
+
+            border-radius: 0px 5px 5px 0px;
+            transition: 0.2s linear;
+
+        }
+
+        input[id="txt-input"] {
+            width: 250px;
+        }
+
+        /* focus  */
+        input:focus {
+            transform: translateX(-2px);
+            border-radius: 5px;
+        }
+
+     
+
+        /* input[type="text"] {min-width: 250px;} */
+        /* buttons  */
+        button {
+            display: inline-block;
+            color: #252537;
+
+            width: 280px;
+            height: 50px;
+
+            padding: 0 20px;
+            background: #fff;
+            border-radius: 5px;
+
+            outline: none;
+            border: none;
+
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.2s linear;
+
+            margin: 7% auto;
+            letter-spacing: 0.05em;
+        }
+
+        /* Submits */
+        .submits {
+            width: 48%;
+            display: inline-block;
+            float: left;
+            margin-left: 2%;
+        }
+
+        /*       Forgot Password button FAF3DD  */
+        .frgt-pass {
+            background: transparent;
+        }
+
+        /*     Sign Up button  */
+        .sign-up {
+            background: #B8F2E6;
+        }
+
+
+        /* buttons hover */
+        button:hover {
+            transform: translatey(3px);
+            box-shadow: none;
+        }
+
+        /* buttons hover Animation */
+        button:hover {
+            animation: ani9 0.4s ease-in-out infinite alternate;
+        }
+
+        @keyframes ani9 {
+            0% {
+                transform: translateY(3px);
+            }
+
+            100% {
+                transform: translateY(5px);
+            }
+        }
+    </style>
+
+<section id="section-holder" style="min-height: 80vh;" class="d-grid row-gap-2">
+     
+ <!-- Left Column - Image -->
+
+
+
+        <!-- new form -->
+        <div class="overlay">
         
-    </div>
+            <form method="post" id="form" class="validation-required " novalidate>
 
-    <form method="post" id="form" class="col-lg-5 col-md-8 col-10 card pt-3 validation-required align-self-center mx-auto" style="bottom: 30%; border: 1px solid hsl(38, 94%, 43%);" novalidate>
-        <% if (attempt && attempt === 'failed') { %>
-            <p class="bg-danger text-white text-center h4 fw-light py-2">Invalid Email ID or Password!</p>
-        <% } %>
-        <div class="form-group row">
-            <label for="email" class="col-4 col-form-label" style="font-weight: 500;">Email</label>
-            <div class="col-8">
-                <div class="input-group">
-                    <div class="input-group-prepend">
-                        <div class="input-group-text" style="border: 1px solid hsl(38, 94%, 43%)">
-                            <i class="fa-solid fa-link" style="color: hsl(38, 94%, 43%);"></i>
-                        </div>
+                <div class="con">
+                    <header class="head-form">
+                        <h2 style="color: #fff;">Log In</h2>
+                        <p style="color: white;">login here using your username and password</p>
+                    </header>
+
+                    <br>
+                    <div class="field-set">
+                        <% if (attempt && attempt==='failed' ) { %>
+                            <p class="bg-danger text-white text-center h4 fw-light py-2">Invalid Email ID or Password!
+                            </p>
+                            <% } %>
+                                <!--   user name -->
+                                <span class="input-item">
+                                    <i class="fa fa-user-circle"></i>
+                                </span>
+                                <!--   user name Input-->
+                                <input class="form-input" id="email" type="email" name="email" namplaceholder="Email"
+                                    pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" class="form-control"
+                                    required="required">
+
+                                <br>
+
+                                <!--   Password -->
+
+                                <span class="input-item">
+                                    <i class="fa fa-key"></i>
+                                </span>
+                                <!--   Password Input-->
+                                <input class="form-input" type="password" placeholder="Password" id="pass" name="pass"
+                                    required class="form-control"
+                                    pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,12}$">
+
+                                <!--      Show/hide password  -->
+                                <span>
+                                    <i class="fa fa-eye" aria-hidden="true" type="button" id="eye"></i>
+                                </span>
+
+
+                                <br>
+                                <!--        buttons -->
+                                <!--      button LogIn -->
+                                <button class="log-in"> Log In </button>
                     </div>
-                    <input id="email" name="email" placeholder="Enter Email" type="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" class="form-control" required="required" style="border: 1px solid hsl(38, 94%, 43%);">
-                </div>
-            </div>
-        </div>
-        <div class="form-group row">
-            <label for="pass" class="col-4 col-form-label" style="font-weight: 500;">Password</label>
-            <div class="col-8">
-                <div class="input-group">
-                    <input id="pass" name="pass" placeholder="Enter Password" type="password" required="required" class="form-control" pattern="(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,12}$" style="border: 1px solid hsl(38, 94%, 43%)">
-                    <div class="input-group-append">
-                        <div class="input-group-text" onclick="toggleVisibility()" style="border: 1px solid hsl(38, 94%, 43%)">
-                            <i class="fa fa-eye"></i>
-                        </div>
+
+                    <!--   other buttons -->
+                    <div class="other">
+                        <!--      Forgot Password button-->
+                        <a href="/auth/forget-password" style="color: hsl(38, 94%, 43%);">Forgot Password</a>
+                        <!--     Sign Up button -->
+                        <br>
+                        <a href="/auth/registration" style="color: hsl(38, 94%, 43%);">New User? Register now</a>
+                        <!--      End Other the Division -->
                     </div>
+
+                    <!--   End Conrainer  -->
                 </div>
-            </div>
-        </div>
-        <div class="form-group">
-            <div class="offset-4 col-8 d-flex justify-content-between align-items-center" >
-                <button name="submit" type="submit" class="btn"  style="background-color: hsl(37.7 92.1% 50.2%);">Submit</button>
-                <a href="/auth/forget-password" style="color: hsl(38, 94%, 43%);">Forgot Password!</a>
-            </div>
-        </div>
-        <div class="offset-4 col-8 my-3">
-            <a href="/auth/registration" style="color: hsl(38, 94%, 43%);">New User? Register now!</a>
-        </div>
-    </form>
-</section>
 
-<script>
-	const pass = document.getElementById('pass');
-	function toggleVisibility() {
-		if (pass.type === 'password')
-			pass.type = 'text';
-		else
-			pass.type = 'password';
-	}
+                <!-- End Form -->
+            </form>
+        </div>
+    </section>
 
-	const form = document.getElementById('form')
-</script>
+
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $("#eye").click(function () {
+                var passField = $("#pass");
+                var eyeIcon = $("#eye");
+
+                if (passField.attr("type") === "password") {
+                    passField.attr("type", "text");
+                    eyeIcon.removeClass("fa-eye").addClass("fa-eye-slash");
+                } else {
+                    passField.attr("type", "password");
+                    eyeIcon.removeClass("fa-eye-slash").addClass("fa-eye");
+                }
+            });
+        });
+        const pass = document.getElementById('pass');
+        function toggleVisibility() {
+            if (pass.type === 'password')
+                pass.type = 'text';
+            else
+                pass.type = 'password';
+        }
+
+        const form = document.getElementById('form')
+
+
+        // Show/hide password onClick of button using Javascript only
+
+        // https://stackoverflow.com/questions/31224651/show-hide-password-onclick-of-button-using-javascript-only
+
+        function show() {
+            var p = document.getElementById('pwd');
+            p.setAttribute('type', 'text');
+        }
+
+        function hide() {
+            var p = document.getElementById('pwd');
+            p.setAttribute('type', 'password');
+        }
+
+        var pwShown = 0;
+
+        document.getElementById("eye").addEventListener("click", function () {
+            if (pwShown == 0) {
+                pwShown = 1;
+                show();
+            } else {
+                pwShown = 0;
+                hide();
+            }
+        }, false);
+
+    </script>
