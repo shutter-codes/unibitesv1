@@ -107,61 +107,87 @@ const registrationMailHTML =`<!DOCTYPE html>
 
 `;
 
-const bookingSuccessHTML = '' +
-' <!DOCTYPE html>                                                                                                            ' +
-' 	<html lang="en">                                                                                                                   ' +
-' 	<head>                                                                                                                   ' +
-' 	<title>PG Booking Confirmation</title>                                                                                   ' +
-' 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">                     ' +
-' 	</head>                                                                                                                  ' +
-' 	<body>                                                                                                                   ' +
-' 		<div class="container mt-5">                                                                                     ' +
-' 			<div class="row">                                                                                            ' +
-' 				<div class="col-md-6 mx-auto">                                                                           ' +
-' 					<div class="card">                                                                                   ' +
-' 						<div class="card-body">                                                                          ' +
-' 							<h4 class="card-title">PG Booking Confirmation</h4>                                          ' +
-' 							<p class="card-text">Dear customer-name,</p>                                                 ' +
-' 							<p class="card-text">We hope this email finds you well. We would like to take this           ' +
-' 								opportunity to thank you for booking a PG with us. We appreciate your trust in our services  ' +
-' 								and look forward to providing you with the best possible experience.</p>                     ' +
-' 							<p class="card-text">As per your request, we would like to confirm your booking details:</p> ' +
-' 							<table class="table">                                                                        ' +
-' 								<tbody>                                                                                      ' +
-' 								<tr>                                                                                         ' +
-' 									<th scope="row">Booking ID:</th>                                                         ' +
-' 									<td>booking-id</td>                                                                      ' +
-' 								</tr>                                                                                        ' +
-' 								<tr>                                                                                         ' +
-' 									<th scope="row">Booking Date:</th>                                                       ' +
-' 									<td>booking-date</td>                                                                    ' +
-' 								</tr>                                                                                        ' +
-' 								<tr>                                                                                         ' +
-' 									<th scope="row">Amount Paid:</th>                                                        ' +
-' 									<td>amount-paid</td>                                                                     ' +
-' 								</tr>                                                                                        ' +
-' 								</tbody>                                                                                     ' +
-' 							</table>                                                                                         ' +
-' 							<p class="card-text">We have received your payment of amount-paid, and the confirmation of   ' +
-' 								your booking has been processed.</p>                                                         ' +
-' 							<p class="card-text">The completion status will be updated as soon and PG Owner confirms     ' +
-' 								your registration, please keep the booking confirmation in check from your dashboard on PG   ' +
-' 								Finder. If in any case this booking is denied, your amount will be returned to you as soon   ' +
-' 								as possible.</p>                                                                             ' +
-' 							<p class="card-text">Once again, thank you for choosing our PG. We look forward to serving   ' +
-' 								you soon.</p>                                                                                ' +
-' 							<p class="card-text">Best regards,</p>                                                       ' +
-' 							<p class="card-text">Unibites</p>                                                         ' +
-' 						</div>                                                                                               ' +
-' 					</div>                                                                                                   ' +
-' 				</div>                                                                                                       ' +
-' 			</div>                                                                                                           ' +
-' 		</div>                                                                                                               ' +
-' 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>                                             ' +
-' 		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>                    ' +
-' 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>                          ' +
-' 	</body>                                                                                                                  ' +
-' </html>                                                                                                                    ';
+const bookingSuccessHTML = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>PG Booking Confirmation</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            transition: 0.3s;
+            border-radius: 5px; /* 5px rounded corners */
+        }
+        .card:hover {
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+        }
+        .container {
+            max-width: 700px; /* Adjust based on preference */
+        }
+        .card-header {
+            background-color: #007bff;
+            color: white;
+            font-size: 20px;
+        }
+        .table th, .table td {
+            padding: 0.75rem;
+            vertical-align: top;
+            border-top: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-md-12 mx-auto">
+                <div class="card">
+                    <div class="card-header">
+                        PG Booking Confirmation
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title">Dear customer-name,</h5>
+                        <p class="card-text">
+                            We hope this email finds you well. We're excited to confirm your PG booking and look forward to welcoming you. Thank you for choosing our services for your stay.
+                        </p>
+                        <p class="card-text">
+                            Below are your booking details for reference:
+                        </p>
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <th scope="row">Booking ID:</th>
+                                    <td>booking-id</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Booking Date:</th>
+                                    <td>booking-date</td>
+                                </tr>
+                                <tr>
+                                    <th scope="row">Amount Paid:</th>
+                                    <td>amount-paid</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="card-text">
+                            Your payment of amount-paid has been successfully received, and your booking is now confirmed. We'll notify you once the PG Owner finalizes your registration. Should there be any changes or cancellations, rest assured that any payments made will be refunded promptly.
+                        </p>
+                        <p class="card-text">
+                            Thank you once again for choosing us. If you have any questions or need further assistance, please don't hesitate to reach out.
+                        </p>
+                        <p class="card-text"><strong>Best regards,</strong><br>Unibites Team</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+`                                                                                               
 
 const bookingFailHTML = '' +
 '<!doctype html>                                                                                                                    ' +
