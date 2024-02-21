@@ -79,7 +79,7 @@ const registrationMailHTML =`<!DOCTYPE html>
 
 <!-- Rest of the PGFinder Content -->
 <div class="verification-container">
-  <h1>Please verify yourself </h1>
+  <h1>kindly validate your identity. </h1>
   <p>
     To complete the registration process, we need to verify your email address. Please click the following link to verify your email address:
   </p>
