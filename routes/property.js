@@ -171,13 +171,14 @@ router.post('/',
 		const propertyCreated = await properties.create({
 			name, address: address, maxOcc: maxOccupancy, type, desc, food: foodProp, amenities: amenityProp, rules: rulesProp,
 			otherCharges: otherChargesProp, occupancy, rate, tagline: tagLine, since, interested: 0, rating: 0.0, owner: owner, bookingMoney,
-			images
+			images , status: 'pending'
 		});
 
 		owner.properties.push(propertyCreated.id);
 		owner.save();
 
 		return res.send({
+			isRoleAdmin: req.user.role === 'admin',
 			success: 'Property Created Successfully',
 			propertyCreated
 		});

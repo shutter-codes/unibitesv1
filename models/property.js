@@ -48,7 +48,9 @@ const schema = new mongoose.Schema({
 	},
 	images: [String],
 	since: Number,
-	bookingMoney: Number
+	bookingMoney: Number,
+	status: { type: String, enum: ['pending', 'approved', 'rejected'], default: 'pending' }
+
 });
 
 schema.index({
@@ -63,6 +65,8 @@ schema.index({
 }, {
 	default_language: 'en',
 });
+
+
 
 const model = mongoose.model('Property', schema);
 module.exports = model;
