@@ -5,27 +5,36 @@ async function addRoleID(req, res, next) {
   if (req.user) {
     const { username, role } = req.user;
 
-    switch (role) {
-      case "rider": {
-        const user = await riders.findOne({ email: username });
-        req.session.userDet = user;
-        req.session.userRoleID = user.id;
-        break;
-      }
+    try {
+      switch (role) {
+        case "rider": {
+          const user = await riders.findOne({ email: username });
+          if (user) {
+            req.session.userDet = user;
+            req.session.userRoleID = user.id;
+          }
+          break;
+        }
 
-      case "provider": {
-        const user = await providers.findOne({ email: username });
-        req.session.userDet = user;
-        req.session.userRoleID = user.id;
-        break;
-      }
+        case "provider": {
+          const user = await providers.findOne({ email: username });
+          if (user) {
+            req.session.userDet = user;
+            req.session.userRoleID = user.id;
+          }
+          break;
+        }
 
-      case "admin": {
-        break;
-      }
+        case "admin": {
+          break;
+        }
 
-      default: {
+        default: {
+        }
       }
+    } catch (error) {
+      // Handle database error
+      console.error("Error fetching user:", error);
     }
   }
 
