@@ -16,7 +16,7 @@
                         <p class="card-text fw-medium">Enter new password!</p>
                         <form novalidate id='form' action="/auth/change-password" class="validation-required" method="post">
                             <div class="form-group">
-                                <label for="pass">New Password</label>
+                                <label for="pass" class="" style="font-weight: 600;">New Password</label>
                                 <div class="input-group">
                                     <input name='pass' type="password" class="form-control" id="pass" aria-describedby="passHelp" required pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[@#!%~]).{8,12}$">
                                     <div class="input-group-append">
@@ -28,15 +28,15 @@
                                 <small id="passHelp" class="form-text text-muted">Minimum length 8 characters, 1 Special Character, 1 Capital and 1 Number necessary.</small>
                             </div>
                             <div class="form-group">
-                                <label for="confirm-pass">Confirm New Password</label>
+                                <label for="confirm-pass" style="font-weight: 600;">Confirm New Password</label>
                                 <input name='confirm-pass' type="password" class="form-control" id="confirm-pass" aria-describedby="confirmPassHelp" required>
                             </div>
                             <div class="card bg-danger-subtle text-center h4 mt-2 py-2 small" id="invalid" hidden></div>
                             <input type="text" name="key" value="<%= key %>" hidden>
-                            <button type="submit" class="btn btn-primary">Change Password</button>
+                            <button type="submit" class="btn " style="background-color: #E18F48; outline: none;">Change Password</button>
                         </form>
                         <div class="mt-3">
-                            <a href="#">Go to login page</a>
+                            <a href="#" style="color: black; font-weight: bold;">Go to login page</a>
                         </div>
                     </div>
                 </div>
