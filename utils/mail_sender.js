@@ -248,7 +248,7 @@ const bookingFinalSuccessEmailHTML = '' +
 '			</tbody>                                                                                                 ' +
 '		</table>                                                                                                     ' +
 '		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-'		<p>Team Unibites ❤</p>                                                                                      ' +
+'		<p>Team Unibites </p>                                                                                      ' +
 '	</div>                                                                                                        ';
 
 const bookingFinalFailEmailHTML = '' +
@@ -273,7 +273,7 @@ const bookingFinalFailEmailHTML = '' +
 	'			</tbody>                                                                                                 ' +
 	'		</table>                                                                                                     ' +
 	'		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-	'		<p>Team Unibitesr ❤</p>                                                                                      ' +
+	'		<p>Team Unibites </p>                                                                                      ' +
 	'	</div>                                                                                                        ';
 
 
@@ -321,7 +321,7 @@ async function sendBookingSuccessEmail (recipientAddress, details) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Booking Confirmation ",
+		subject: "Unibites | Booking Confirmation ",
 		html: htmlContent,
 	};
 
