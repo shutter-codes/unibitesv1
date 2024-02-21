@@ -9,7 +9,7 @@ function isRoleAdmin (req, res, next) {
 
 	next();
 }
-
+	
 function isRoleRider (req, res, next) {
 	const current = req.user;
 

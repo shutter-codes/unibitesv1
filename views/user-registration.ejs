@@ -1,20 +1,11 @@
 <!-- USER REGISTRATION -->
 <% layout('layout/boilerplate.ejs') -%>
 
-<!-- <style>
-    #section-holder {
-        background: url("/images/city.svg") no-repeat center center fixed;
-        background-size: cover;
-        orange = hsl(43.3, 96.4%, 56.3%);
-         font-family: 'Open Sans', Arial, sans-serif;
-    }
-</style> -->
-
-<section id="section-holder" style="min-height: 100vh; background-color: rgb(255, 235, 199);" class="d-grid row-gap-2 ">
+<section id="section-holder" style="min-height:60vh;" class="d-grid row-gap-2 ">
     <div class="d-flex col-11 col-md-6 mx-auto my-auto" style="display: flex; align-items: center; justify-content: center; top: 25%;" >
         <h3 class="display-5" style="color: hsl(38, 94%, 43%);">Registration Page</h3>
     </div>
-    <form id='reg-form' action="/auth/registration" method="post" class="col-lg-5 col-md-8 col-10 card  pt-3 validation-required align-self-center mx-auto" style="border: 1px solid rgb(192, 116, 3); box-shadow: 5px 5px 5px hsl(38, 94%, 43%);" novalidate>
+    <form id='reg-form' action="/auth/registration" method="post" class="col-lg-5 col-md-8 col-10 card  pt-3 validation-required align-self-center mx-auto" style="border: 1px solid rgb(192, 116, 3); " novalidate>
         <div class="form-group row">
             <label for="name" class="col-4 col-form-label">Name</label>
             <div class="col-8">
@@ -60,13 +51,12 @@
             <div class="col-8">
                 <div class="custom-control custom-radio custom-control-inline">
                     <input name="role" id="role_0" type="radio" class="custom-control-input" value="rider" required="required" aria-describedby="roleHelpBlock">
-                    <label for="role_0" class="custom-control-label">Rider</label>
+                    <label for="role_0" class="custom-control-label">Tenant</label>
                 </div>
                 <div class="custom-control custom-radio custom-control-inline">
                     <input name="role" id="role_1" type="radio" class="custom-control-input" value="provider" required="required" aria-describedby="roleHelpBlock">
-                    <label for="role_1" class="custom-control-label">Provider</label>
+                    <label for="role_1" class="custom-control-label">owner</label>
                 </div>
-                <span id="roleHelpBlock" class="form-text text-muted">Rider - you want to look for properties <br> Provider - you want to post your own properties.</span>
             </div>
         </div>
         <div class="form-group row">

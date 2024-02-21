@@ -14,7 +14,7 @@ const riderStorage = new CloudinaryStorage({
 	params: {
 		folder: 'user-files',
 	},
-	allowedFormats: ["jpg", "png", "pdf"]
+	allowedFormats: ["jpg", "png", "pdf" , "jpeg"]
 });
 
 const propertyImages = new CloudinaryStorage({
@@ -22,7 +22,7 @@ const propertyImages = new CloudinaryStorage({
 	params: {
 		folder: 'properties',
 	},
-	allowedFormats: ["jpg", "png"],
+	allowedFormats: ["jpg", "png", "jpeg"],
 });
 
 const uploadRiderFiles = multer({
@@ -31,7 +31,7 @@ const uploadRiderFiles = multer({
 		fileSize: 1024 * 1024 * 2
 	},
 	fileFilter (req, file, cb) {
-		if (!file.originalname.match(/\.(png|jpg|pdf)$/))
+		if (!file.originalname.match(/\.(png|jpg|pdf|jpeg)$/))
 			return cb(new Error('Please upload files in correct format!'));
 
 		cb (undefined, true);
@@ -44,7 +44,7 @@ const uploadPropertyImages = multer ({
 		fileSize: 1024 * 1024 * 5 // 5 MB
 	},
 	fileFilter (req, file, cb) {
-		if (!file.originalname.match(/\.(jpg|png)$/))
+		if (!file.originalname.match(/\.(jpg|png|jpeg)$/))
 			return cb(new Error('please upload an image file only!'));
 
 		cb (undefined, true);

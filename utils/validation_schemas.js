@@ -117,10 +117,10 @@ const propertySchema = joi.object({
 	addBuilding: joi.string().trim().required().min(5).max(50).messages({
 		'string.empty': 'Building Name can not be empty.',
 	}),
-	addL1: joi.string().trim().required().min(10).max(80).messages({
+	addL1: joi.string().trim().required().min(5).max(80).messages({
 		'string.empty': 'Address Line 1 is required.',
 	}),
-	landmark: joi.string().trim().required().min(10).max(80).messages({
+	landmark: joi.string().trim().required().min(5).max(80).messages({
 		'string.empty': 'Landmark is required',
 	}),
 	state: joi.string().trim().required().custom((state, helper) => {
