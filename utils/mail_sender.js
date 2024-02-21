@@ -151,7 +151,7 @@ const bookingSuccessHTML = '' +
 ' 							<p class="card-text">Once again, thank you for choosing our PG. We look forward to serving   ' +
 ' 								you soon.</p>                                                                                ' +
 ' 							<p class="card-text">Best regards,</p>                                                       ' +
-' 							<p class="card-text">PG Finder ❤</p>                                                         ' +
+' 							<p class="card-text">Unibites</p>                                                         ' +
 ' 						</div>                                                                                               ' +
 ' 					</div>                                                                                                   ' +
 ' 				</div>                                                                                                       ' +
@@ -214,7 +214,7 @@ const bookingFailHTML = '' +
 '						<p class="card-text">Once again, we apologize for the inconvenience caused and hope to serve              ' +
 '							you better in the future.</p>                                                                        ' +
 '						<p class="card-text">Best regards,</p>                                                                    ' +
-'						<p class="card-text">PG Finder ❤</p>                                                                      ' +
+'						<p class="card-text">Unibites</p>                                                                      ' +
 '					</div>                                                                                                        ' +
 '				</div>                                                                                                             ' +
 '			</div>                                                                                                                  ' +
@@ -248,7 +248,7 @@ const bookingFinalSuccessEmailHTML = '' +
 '			</tbody>                                                                                                 ' +
 '		</table>                                                                                                     ' +
 '		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-'		<p>Team PG Finder ❤</p>                                                                                      ' +
+'		<p>Team Unibites ❤</p>                                                                                      ' +
 '	</div>                                                                                                        ';
 
 const bookingFinalFailEmailHTML = '' +
@@ -273,7 +273,7 @@ const bookingFinalFailEmailHTML = '' +
 	'			</tbody>                                                                                                 ' +
 	'		</table>                                                                                                     ' +
 	'		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-	'		<p>Team PG Finder ❤</p>                                                                                      ' +
+	'		<p>Team Unibitesr ❤</p>                                                                                      ' +
 	'	</div>                                                                                                        ';
 
 
@@ -304,7 +304,7 @@ async function sendRegistrationEmail (recipientAddress, validationKey) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Please verify your email address ",
+		subject: "Unibites | Please verify your email address ",
 		html: htmlContent,
 	};
 
