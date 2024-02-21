@@ -49,7 +49,6 @@ const schema = new mongoose.Schema({
 	images: [String],
 	since: Number,
 	bookingMoney: Number,
-	status: { type: String, enum: ['pending', 'approved', 'rejected'], default: 'pending' }
 
 });
 
