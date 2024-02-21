@@ -133,11 +133,18 @@
         .abouttitle {
             font-weight: bold;
         }
+
+        @media only screen and (max-width: 320px) {
+        .container {
+            
+            padding: 0 ;
+        }
+    }
     </style>
 
     <section class="overflow-x-hidden">
-        <section id="hero">
-            <div class="container min-vh-100 d-flex align-items-center mt-2 mt-lg-0">
+        <section id="hero" class="">
+            <div class="container min-vh-100 d-flex align-items-center"  style="padding-top: 20px; padding-bottom: 20px;">
                 <div class="w-100 d-flex flex-lg-row flex-column justify-content-between align-items-center">
                     <div class="col-lg-6 mb-lg-0 mb-3" data-aos="fade-right" data-aos-duration="800">
                         <h1>Welcome to <br> <span class="display-3" style="font-weight: 500;">Unibites</span></h1>
@@ -158,8 +165,8 @@
 
 
         <!-- about us section -->
-        <section id="about" class="about min-vh-90 bg-#E18F48-700 d-flex align-items-center fs-5">
-            <div class="d-flex justify-content-evenly w-100 flex-lg-row flex-column p-5 p-lg-0"
+        <section id="about" class="about min-vh-100 bg-#E18F48-700 d-flex align-items-center fs-5">
+            <div class="d-flex justify-content-evenly w-100 flex-lg-row flex-column p-sm-5 p-lg-0"
                 style="font-family: 'Poppins', sans-serif">
                 <div class="col-lg-5">
                     <div class="section-title">
