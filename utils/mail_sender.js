@@ -97,7 +97,7 @@ const registrationMailHTML =`<!DOCTYPE html>
     <!-- Thank you for your cooperation. -->
     <br>
     Best regards <br>
-    <strong>Team UniBites</strong>
+    <strong>Team Unibites</strong>
   </p>
 </div>
 
@@ -273,7 +273,7 @@ const bookingFinalFailEmailHTML = '' +
 	'			</tbody>                                                                                                 ' +
 	'		</table>                                                                                                     ' +
 	'		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-	'		<p>Team Unibitesr ❤</p>                                                                                      ' +
+	'		<p>Team Unibites ❤</p>                                                                                      ' +
 	'	</div>                                                                                                        ';
 
 
@@ -321,7 +321,7 @@ async function sendBookingSuccessEmail (recipientAddress, details) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Booking Confirmation ",
+		subject: "Unibites | Booking Confirmation ",
 		html: htmlContent,
 	};
 
@@ -339,7 +339,7 @@ async function sendBookingFailEmail (recipientAddress, details) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Booking Confirmation ",
+		subject: "Unibites | Booking Confirmation ",
 		html: htmlContent,
 	};
 
@@ -352,7 +352,7 @@ async function sendForgotPasswordEmail (recipientAddress, key) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Forgot Password ",
+		subject: "Unibites | Forgot Password ",
 		html: htmlContent,
 	};
 
@@ -363,7 +363,7 @@ async function sendPasswordChangeEmail (recipientAddress) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Password Changed ",
+		subject: "Unibites | Password Changed ",
 		html: passwordChangeHTML,
 	};
 
@@ -380,7 +380,7 @@ async function sendBookingFinalSuccessEmail (recipientAddress, content) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Booking Finalized ",
+		subject: "Unibites | Booking Finalized ",
 		html: bookingFinalSuccessContent,
 	};
 
@@ -397,7 +397,7 @@ async function sendBookingFinalFailEmail (recipientAddress, content) {
 	const mailOptions = {
 		from: emailAdd,
 		to: recipientAddress,
-		subject: "PG Finder | Booking Finalized ",
+		subject: "Unibites | Booking Finalized ",
 		html: bookingFinalFailContent,
 	};
 
