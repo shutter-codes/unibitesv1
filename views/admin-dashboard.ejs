@@ -52,6 +52,25 @@
 
     <hr style="all: revert; height: 1px; background-color: black">
 
+<!-- Your existing property details display -->
+<h2><%= propertyCreated.name %></h2>
+<!-- ... other property details ... -->
+
+<!-- Display property status -->
+<p>Status: <%= propertyCreated.status %></p>
+
+<!-- Admin actions -->
+<% if (isAdmin) { %>
+  <% if (propertyCreated.status === 'pending') { %>
+    <form action="/admin/properties/<%= propertyCreated._id %>/approve" method="POST">
+      <button type="submit" name="action" value="approve">Approve</button>
+    </form>
+    <form action="/admin/properties/<%= propertyCreated._id %>/approve" method="POST">
+      <button type="submit" name="action" value="reject">Reject</button>
+    </form>
+  <% } %>
+<% } %>
+
     <div class="row mx-0">
         <div class="card col-12 my-auto border-0 ">
             <div class="card-body">
