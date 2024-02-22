@@ -465,14 +465,92 @@ const bookingFinalFailEmailHTML = `<!DOCTYPE html>
 `
 
 
-const forgotPasswordHTML = '' +
-"<div>" +
-`	<div style='padding: 1rem; background-color: gray; text-align: center'>   	` +
-`		<h2>Password Change Request</h2>                                        ` +
-`	</div>                                                                    	` +
-`                                                                               ` +
-`	<p>Here's the link to reset your password <a href="${baseURL}/auth/change-password?key=insertKey">reset-password</a>. </p>` +
-"</div>";
+const forgotPasswordHTML =`<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Change Request</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 30px;
+            text-align: center;
+            width: 80%;
+            max-width: 500px;
+            border: 2px solid #e18f48;
+        }
+
+        div > div {
+            padding: 1.5rem;
+            margin: 0 20px;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        h2 {
+            margin: 0;
+           
+            font-size: 24px;
+        }
+
+        p {
+            margin: 20px 0;
+            color: #333;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            background-color: #e18f48;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #2575af;
+        }
+
+        footer {
+            margin-top: 20px;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h2>Password Change Request</h2>
+        </div>
+        <p>We've received a request to change your password. To enhance your account security, please click the link below to reset your password:</p>
+        <a href="${baseURL}/auth/change-password?key=insertKey">Reset Password Now</a>
+        <p>If you didn't request this change, you can ignore this email. Your account's security is our top priority.</p>
+        <footer>Best regards,<br>Team Unibites</footer>
+    </div>
+</body>
+
+</html>
+`
 
 const passwordChangeHTML = '' +
 "<div>" +
