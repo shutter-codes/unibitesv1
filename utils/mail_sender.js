@@ -552,14 +552,75 @@ const forgotPasswordHTML =`<!DOCTYPE html>
 </html>
 `
 
-const passwordChangeHTML = '' +
-"<div>" +
-`	<div style='padding: 1rem; background-color: gray; text-align: center'>   	` +
-`		<h2>Password Change Confirmation</h2>                                        ` +
-`	</div>                                                                    	` +
-`                                                                               ` +
-`	<p>This email is to confirm that your password has recently changed. If it was not you then please change your password!</p>` +
-"</div>";
+const passwordChangeHTML =`<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Change Confirmation</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #ffffff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            width: 80%;
+            max-width: 500px;
+            border: 2px solid #e18f48;
+        }
+
+        div > div {
+            padding: 1.5rem;
+            margin: 0 20px;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+        }
+
+        h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        p {
+            margin: 20px 0;
+            color: #555;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        footer {
+            margin-top: 20px;
+            color: #e18f48;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h2>Password Change Confirmation</h2>
+        </div>
+        <p>This email is to confirm that your password has recently changed. If it was not you, please change your password immediately to secure your account.</p>
+        <footer>Best Regards, Team Unibites</footer>
+    </div>
+</body>
+
+</html>
+`
 
 
 /* EMAIL SENDING FUNCTIONS */
