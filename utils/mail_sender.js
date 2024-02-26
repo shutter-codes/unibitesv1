@@ -189,137 +189,438 @@ const bookingSuccessHTML = `
 
 `                                                                                               
 
-const bookingFailHTML = '' +
-'<!doctype html>                                                                                                                    ' +
-'	<html lang="en">                                                                                                                ' +
-'	<head>                                                                                                                          ' +
-'	<meta charset="UTF-8">                                                                                                          ' +
-'	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">  ' +
-'	<meta http-equiv="X-UA-Compatible" content="ie=edge">                                                                           ' +
-'	<title>PG Booking Failed</title>                                                                                                ' +
-'	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">                            ' +
-'	</head>                                                                                                                         ' +
-'	<body>                                                                                                                          ' +
-'	<div class="container mt-5">                                                                                                    ' +
-'		<div class="row">                                                                                                           ' +
-'			<div class="col-md-6 mx-auto">                                                                                          ' +
-'				<div class="card">                                                                                                 ' +
-'					<div class="card-body">                                                                                       ' +
-'						<h4 class="card-title">PG Booking Failed</h4>                                                             ' +
-'						<p class="card-text">Dear customer-name,</p>                                                              ' +
-'						<p class="card-text">We regret to inform you that your PG booking has failed due to an internal           ' +
-'							error. We apologize for the inconvenience caused.</p>                                                ' +
-'						<p class="card-text">As per our records, the following details were provided by you during the            ' +
-'							booking process:</p>                                                                                 ' +
-'						<table class="table">                                                                                     ' +
-'							<tbody>                                                                                              ' +
-'							<tr>                                                                                                 ' +
-'								<th scope="row">Payment ID:</th>                                                                 ' +
-'								<td>payment-id</td>                                                                              ' +
-'							</tr>                                                                                                ' +
-'							<tr>                                                                                                 ' +
-'								<th scope="row">Property ID:</th>                                                                ' +
-'								<td>property-id</td>                                                                             ' +
-'							</tr>                                                                                                ' +
-'							<tr>                                                                                                 ' +
-'								<th scope="row">Payment Date:</th>                                                               ' +
-'								<td>payment-date</td>                                                                            ' +
-'							</tr>                                                                                                ' +
-'							<tr>                                                                                                 ' +
-'								<th scope="row">Amount Paid:</th>                                                                ' +
-'								<td>amount-paid</td>                                                                             ' +
-'							</tr>                                                                                                ' +
-'							</tbody>                                                                                             ' +
-'						</table>                                                                                                  ' +
-'						<p class="card-text">We are investigating the issue and will ensure that such incidents do not            ' +
-'							happen in the future. Please rest assured that the payment amount of amount-paid will be             ' +
-'							refunded to you within 14 working days.</p>                                                          ' +
-'						<p class="card-text">We apologize for any inconvenience caused and appreciate your understanding          ' +
-'							in this matter. If you have any queries or concerns, please feel free to contact us.                 ' +
-'							We would be happy to assist you in any way we can.</p>                                               ' +
-'						<p class="card-text">Once again, we apologize for the inconvenience caused and hope to serve              ' +
-'							you better in the future.</p>                                                                        ' +
-'						<p class="card-text">Best regards,</p>                                                                    ' +
-'						<p class="card-text">Unibites</p>                                                                      ' +
-'					</div>                                                                                                        ' +
-'				</div>                                                                                                             ' +
-'			</div>                                                                                                                  ' +
-'		</div>                                                                                                                      ' +
-'	</div>                                                                                                                          ' +
-'	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>                                                        ' +
-'	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>                               ' +
-'	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>                                     ' +
-'	</body>                                                                                                                         ' +
-'</html>                                                                                                                            ';
+const bookingFailHTML = `<!DOCTYPE html>
+<html lang="en">
 
-const bookingFinalSuccessEmailHTML = '' +
-'	<div>                                                                                                            ' +
-'		<h1>Hurray 🎉🥳, Your Booking is confirmed!</h1>                                                               ' +
-'		<p>We are glad to inform you that your booking with id : <pre>insertBookingID</pre> for PG / Hostel          ' +
-'			<strong>insertPropName</strong> has been confirmed by the owner. You can view complete details of the    ' +
-'			booking                                                                                                  ' +
-'			on your dashboard.                                                                                       ' +
-'		</p>                                                                                                         ' +
-'		<h3>For any further details about the PG, you may contact the owner.</h3>                                    ' +
-'		<table>                                                                                                      ' +
-'			<tbody>                                                                                                  ' +
-'			<tr>                                                                                                     ' +
-'				<td><strong>Email</strong></td>                                                                     ' +
-'				<td>insertPropEmail</td>                                                                                  ' +
-'			</tr>                                                                                                    ' +
-'			<tr>                                                                                                     ' +
-'				<td><strong>Phone</strong></td>                                                                     ' +
-'				<td>insertPropPhone</td>                                                                                  ' +
-'			</tr>                                                                                                    ' +
-'			</tbody>                                                                                                 ' +
-'		</table>                                                                                                     ' +
-'		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-'		<p>Team Unibites </p>                                                                                      ' +
-'	</div>                                                                                                        ';
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PG Booking Failed</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
 
-const bookingFinalFailEmailHTML = '' +
-	'	<div>                                                                                                            ' +
-	'		<h1>Sorry, Booking Failed!</h1>                                                               ' +
-	'		<p>We are sad to inform you that your booking with id : <pre>insertBookingID</pre> for PG / Hostel          ' +
-	'			<strong>insertPropName</strong> has been denied by the owner. You can view complete details of the    ' +
-	'			booking                                                                                                  ' +
-	'			on your dashboard.                                                                                       ' +
-	'		</p>                                                                                                         ' +
-	'		<h3>For any further details about the PG, you may contact the owner.</h3>                                    ' +
-	'		<table>                                                                                                      ' +
-	'			<tbody>                                                                                                  ' +
-	'			<tr>                                                                                                     ' +
-	'				<td><strong>Email</strong></td>                                                                     ' +
-	'				<td>insertPropEmail</td>                                                                                  ' +
-	'			</tr>                                                                                                    ' +
-	'			<tr>                                                                                                     ' +
-	'				<td><strong>Phone</strong></td>                                                                     ' +
-	'				<td>insertPropPhone</td>                                                                                  ' +
-	'			</tr>                                                                                                    ' +
-	'			</tbody>                                                                                                 ' +
-	'		</table>                                                                                                     ' +
-	'		<p>For any further information on our side, we are always here to help!</p>                                  ' +
-	'		<p>Team Unibites ❤</p>                                                                                      ' +
-	'	</div>                                                                                                        ';
+        .container {
+            max-width: 600px;
+            margin-top: 50px;
+        }
+
+        .card {
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .card-body {
+            padding: 30px;
+            text-align: center;
+        }
+
+        .card-title {
+            color:#E18F48;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        .card-text {
+            color: #495057;
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .table th,
+        .table td {
+            padding: 0.75rem;
+            vertical-align: top;
+            border-top: none;
+        }
+       
+        
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title" >PG Booking Failed</h4>
+                <p class="card-text " style="font-weight:bold;">Dear customer-name</p>
+                <p class="card-text">We regret to inform you that your PG booking has encountered an internal error, leading to the failure of the booking process. We sincerely apologize for any inconvenience caused.</p>
+                <p class="card-text">As per our records, the following details were provided during the booking attempt:</p>
+                <table class="table">
+                    <tbody>
+                        <tr>
+                            <th scope="row">Payment ID:</th>
+                            <td>payment-id</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Property ID:</th>
+                            <td>property-id</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Payment Date:</th>
+                            <td>payment-date</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">Amount Paid:</th>
+                            <td><span class="highlight-bg">amount-paid</span></td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p class="card-text">Our team is actively investigating the issue, and we assure you that corrective measures will be implemented to prevent such incidents in the future. Rest assured, the full payment amount of <span class="highlight-bg">amount-paid</span> will be refunded to you within 14 working days.</p>
+                <p class="card-text">We sincerely apologize for any inconvenience this may have caused and appreciate your understanding in this matter. If you have any queries or concerns, please feel free to contact us. Our support team is ready to assist you.</p>
+                <p class="card-text">Once again, we apologize for the inconvenience caused and remain committed to providing you with exceptional service in the future.</p>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+</body>
+
+</html>
+`
+const bookingFinalSuccessEmailHTML = `<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Confirmed</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #ffffff;
+            box-shadow:#E18F48;
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            width: 80%;
+            max-width: 400px;
+            border: 2px solid #E18F48;
+        }
+
+        h1 {
+            color:#E18F48;
+            margin-bottom: 20px;
+        }
+
+        strong {
+           font-weight:bold;
+        }
+
+        table {
+            margin: 20px auto;
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid #E18F48;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        p:last-child {
+            font-weight: bold;
+            color:#E18F48;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h1>Hurray 🎉🥳, Your Booking is Confirmed!</h1>
+        <p>We are glad to inform you that your booking with ID: <pre>insertBookingID</pre> for PG/Hostel <strong>insertPropName</strong> has been confirmed by the owner. You can view complete details of the booking on your dashboard.</p>
+        <h3>Contact the Owner for More Details:</h3>
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Email:</strong></td>
+                    <td>insertPropEmail</td>
+                </tr>
+                <tr>
+                    <td><strong>Phone:</strong></td>
+                    <td>insertPropPhone</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>If you need any further information, we are always here to help!</p>
+        <p> Best Regards, Team Unibites</p>
+    </div>
+</body>
+
+</html>
+`                                                                                                 
+
+const bookingFinalFailEmailHTML = `<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Denied</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #ffffff;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            padding: 30px;
+            text-align: center;
+            width: 80%;
+            max-width: 400px;
+            border: 2px solid #e18f48;
+        }
+
+        h1 {
+            color: #e18f48;
+            margin-bottom: 20px;
+        }
+
+        strong {
+            color: #e18f48;
+        }
+
+        table {
+            margin: 20px auto;
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid #e18f48;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+
+        #id{
+            color: #e18f48;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <h1>Booking Denied</h1>
+        <p>Dear User, We regret to inform you that your booking for <strong>insertPropName</strong> <p id="id">ID:</p><pre>insertBookingID</pre> has been denied by the owner.</p>
+        <p>You can review the details on your dashboard.</p>
+        <h3>Contact the Owner for More Information:</h3>
+        <table>
+            <tbody>
+                <tr>
+                    <td><strong>Email:</strong></td>
+                    <td>insertPropEmail</td>
+                </tr>
+                <tr>
+                    <td><strong>Phone:</strong></td>
+                    <td>insertPropPhone</td>
+                </tr>
+            </tbody>
+        </table>
+        <p>If you need further assistance or information, feel free to reach out. We're here to help!</p>
+        <p style="font-size: 1.2em;">Best Regards ,Team Unibites </p>
+    </div>
+</body>
+
+</html>
+`
 
 
-const forgotPasswordHTML = '' +
-"<div>" +
-`	<div style='padding: 1rem; background-color: gray; text-align: center'>   	` +
-`		<h2>Password Change Request</h2>                                        ` +
-`	</div>                                                                    	` +
-`                                                                               ` +
-`	<p>Here's the link to reset your password <a href="${baseURL}/auth/change-password?key=insertKey">reset-password</a>. </p>` +
-"</div>";
+const forgotPasswordHTML =`<!DOCTYPE html>
+<html lang="en">
 
-const passwordChangeHTML = '' +
-"<div>" +
-`	<div style='padding: 1rem; background-color: gray; text-align: center'>   	` +
-`		<h2>Password Change Confirmation</h2>                                        ` +
-`	</div>                                                                    	` +
-`                                                                               ` +
-`	<p>This email is to confirm that your password has recently changed. If it was not you then please change your password!</p>` +
-"</div>";
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Change Request</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            padding: 30px;
+            text-align: center;
+            width: 80%;
+            max-width: 500px;
+            border: 2px solid #e18f48;
+        }
+
+        div > div {
+            padding: 1.5rem;
+            margin: 0 20px;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        h2 {
+            margin: 0;
+           
+            font-size: 24px;
+        }
+
+        p {
+            margin: 20px 0;
+            color: #333;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        a {
+            color: #ffffff;
+            text-decoration: none;
+            font-weight: bold;
+            background-color: #e18f48;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        a:hover {
+            background-color: #2575af;
+        }
+
+        footer {
+            margin-top: 20px;
+            color: #777;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h2>Password Change Request</h2>
+        </div>
+        <p>We've received a request to change your password. To enhance your account security, please click the link below to reset your password:</p>
+        <a href="${baseURL}/auth/change-password?key=insertKey">Reset Password Now</a>
+        <p>If you didn't request this change, you can ignore this email. Your account's security is our top priority.</p>
+        <footer>Best regards,<br>Team Unibites</footer>
+    </div>
+</body>
+
+</html>
+`
+
+const passwordChangeHTML =`<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Change Confirmation</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        div {
+            background-color: #ffffff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 15px;
+            padding: 30px;
+            text-align: center;
+            width: 80%;
+            max-width: 500px;
+            border: 2px solid #e18f48;
+        }
+
+        div > div {
+            padding: 1.5rem;
+            margin: 0 20px;
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+        }
+
+        h2 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        p {
+            margin: 20px 0;
+            color: #555;
+            line-height: 1.6;
+            font-size: 16px;
+        }
+
+        footer {
+            margin-top: 20px;
+            color: #e18f48;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h2>Password Change Confirmation</h2>
+        </div>
+        <p>This email is to confirm that your password has recently changed. If it was not you, please change your password immediately to secure your account.</p>
+        <footer>Best Regards, Team Unibites</footer>
+    </div>
+</body>
+
+</html>
+`
 
 
 /* EMAIL SENDING FUNCTIONS */
